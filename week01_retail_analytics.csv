@@ -1,0 +1,1001 @@
+transaction_id,customer_id,order_timestamp,channel,product_category,unit_price,quantity,discount_percent,total_spend,payment_method,customer_rating,delivery_days,customer_review,device_os,repeat_customer
+TX10001,CUST0315,2024-01-01 08:11:39,Online Web,Electronics,148.7,1,0.05,141.26,Digital Wallet,4.0,4,Delivery was delayed by two days but support notified me,iOS,0
+TX10002,CUST0428,2024-01-01 08:14:18,In Store,Apparel,47.54,1,0.1,42.79,Credit Card,5.0,4,Very pleased with this purchase will recommend to friends,macOS,1
+TX10003,CUST0419,2024-01-01 08:15:28,Mobile App,Beauty,24.94,4,0.0,99.76,Bank Transfer,3.0,6,Customer service was very helpful with my inquiry,Windows,0
+TX10004,CUST0335,2024-01-01 08:28:52,Mobile App,Home Goods,70.33,1,0.05,66.81,Digital Wallet,5.0,4,Delivery was delayed by two days but support notified me,Android,1
+TX10005,CUST0133,2024-01-01 08:34:18,Online Web,Beauty,25.69,1,0.05,24.41,Credit Card,4.0,4,Delivery was delayed by two days but support notified me,macOS,1
+TX10006,CUST0157,2024-01-01 08:39:13,Online Web,Home Goods,56.87,2,0.1,102.37,Digital Wallet,5.0,4,Delivery was delayed by two days but support notified me,iOS,1
+TX10007,CUST0356,2024-01-01 08:43:46,Online Web,Home Goods,51.49,1,0.15,43.77,Debit Card,,1,Fast delivery and great quality product,iOS,1
+TX10008,CUST0406,2024-01-01 08:46:53,In Store,Beauty,19.17,2,0.0,38.34,Credit Card,4.0,2,Item arrived on time and as described,Android,1
+TX10009,CUST0375,2024-01-01 09:00:12,Mobile App,Electronics,111.58,1,0.05,106.0,Credit Card,5.0,3,Packaging was slightly damaged but item works fine,iOS,1
+TX10010,CUST0109,2024-01-01 09:02:41,Mobile App,Apparel,46.28,1,0.0,46.28,Credit Card,5.0,3,Customer service was very helpful with my inquiry,macOS,0
+TX10011,CUST0424,2024-01-01 09:14:58,Online Web,Electronics,117.91,1,0.05,112.01,Credit Card,,2,Satisfactory purchase overall meets expectations,iOS,0
+TX10012,CUST0364,2024-01-01 09:28:21,In Store,Groceries,16.65,1,0.0,16.65,Digital Wallet,4.0,2,Customer service was very helpful with my inquiry,Android,1
+TX10013,CUST0395,2024-01-01 09:38:24,Mobile App,Groceries,14.94,4,0.0,59.76,Digital Wallet,4.0,2,Packaging was slightly damaged but item works fine,Android,1
+TX10014,CUST0224,2024-01-01 09:40:38,Online Web,Electronics,133.14,1,0.0,133.14,Credit Card,4.0,3,Simple checkout process and clear delivery tracking,Android,0
+TX10015,CUST0174,2024-01-01 09:51:27,Online Web,Home Goods,49.59,1,0.05,47.11,Credit Card,4.0,4,Color is exactly as shown on the website,iOS,1
+TX10016,CUST0250,2024-01-01 09:59:24,Online Web,Groceries,20.51,1,0.0,20.51,Credit Card,5.0,5,Delivery was delayed by two days but support notified me,iOS,1
+TX10017,CUST0320,2024-01-01 10:00:41,Online Web,Electronics,98.35,1,0.1,88.52,Debit Card,5.0,4,Very pleased with this purchase will recommend to friends,Windows,0
+TX10018,CUST0101,2024-01-01 10:01:56,Mobile App,Home Goods,56.2,3,0.0,168.6,Credit Card,5.0,4,Very pleased with this purchase will recommend to friends,iOS,1
+TX10019,CUST0415,2024-01-01 10:04:16,Online Web,Groceries,13.25,1,0.0,13.25,Bank Transfer,5.0,2,Color is exactly as shown on the website,Windows,1
+TX10020,CUST0281,2024-01-01 10:08:44,Online Web,Electronics,109.17,2,0.1,196.51,Digital Wallet,1.0,2,Satisfactory purchase overall meets expectations,Android,1
+TX10021,CUST0224,2024-01-01 10:13:27,Mobile App,Home Goods,76.41,5,0.0,382.05,Credit Card,3.0,2,Very pleased with this purchase will recommend to friends,Windows,1
+TX10022,CUST0393,2024-01-01 10:22:49,Online Web,Apparel,49.18,2,0.0,98.36,Debit Card,5.0,3,Color is exactly as shown on the website,Android,0
+TX10023,CUST0314,2024-01-01 10:33:50,Online Web,Groceries,21.17,4,0.05,80.45,Digital Wallet,4.0,1,Color is exactly as shown on the website,iOS,1
+TX10024,CUST0196,2024-01-01 10:35:02,Online Web,Groceries,19.69,1,0.0,19.69,Digital Wallet,,3,Delivery was delayed by two days but support notified me,Android,1
+TX10025,CUST0441,2024-01-01 10:45:21,Mobile App,Groceries,14.42,1,0.0,14.42,Bank Transfer,5.0,3,Packaging was slightly damaged but item works fine,Windows,1
+TX10026,CUST0443,2024-01-01 10:49:29,Mobile App,Apparel,42.32,1,0.0,42.32,Credit Card,5.0,2,Packaging was slightly damaged but item works fine,Android,1
+TX10027,CUST0144,2024-01-01 11:02:27,Online Web,Beauty,24.07,2,0.15,40.92,Credit Card,5.0,6,Packaging was slightly damaged but item works fine,macOS,0
+TX10028,CUST0369,2024-01-01 11:14:17,Mobile App,Beauty,34.71,5,0.05,164.87,Digital Wallet,4.0,3,Customer service was very helpful with my inquiry,Android,0
+TX10029,CUST0285,2024-01-01 11:27:00,Mobile App,Apparel,35.31,1,0.05,33.54,Credit Card,1.0,2,Item arrived on time and as described,iOS,0
+TX10030,CUST0135,2024-01-01 11:37:03,Online Web,Beauty,32.5,2,0.05,61.75,Credit Card,4.0,2,Customer service was very helpful with my inquiry,iOS,1
+TX10031,CUST0370,2024-01-01 11:44:57,Mobile App,Electronics,139.29,1,0.0,139.29,Credit Card,5.0,3,Color is exactly as shown on the website,macOS,1
+TX10032,CUST0379,2024-01-01 11:49:27,Online Web,Home Goods,86.41,2,0.0,172.82,Credit Card,5.0,2,Item arrived on time and as described,iOS,1
+TX10033,CUST0360,2024-01-01 11:57:51,Online Web,Electronics,111.15,1,0.1,100.04,Digital Wallet,4.0,1,Very pleased with this purchase will recommend to friends,Windows,1
+TX10034,CUST0360,2024-01-01 12:08:39,In Store,Electronics,135.39,5,0.0,676.95,Credit Card,3.0,3,Good value for money would purchase again,Windows,0
+TX10035,CUST0384,2024-01-01 12:14:08,In Store,Electronics,169.28,2,0.0,338.56,Digital Wallet,4.0,5,Customer service was very helpful with my inquiry,iOS,1
+TX10036,CUST0111,2024-01-01 12:28:41,Mobile App,Home Goods,57.77,1,0.0,57.77,Digital Wallet,4.0,2,Customer service was very helpful with my inquiry,iOS,1
+TX10037,CUST0300,2024-01-01 12:29:32,Online Web,Apparel,32.57,1,0.0,32.57,Credit Card,5.0,5,Delivery was delayed by two days but support notified me,Android,1
+TX10038,CUST0341,2024-01-01 12:43:14,Online Web,Home Goods,43.0,1,0.2,34.4,Credit Card,3.0,4,Packaging was slightly damaged but item works fine,iOS,0
+TX10039,CUST0123,2024-01-01 12:57:44,Mobile App,Electronics,135.39,1,0.0,135.39,Digital Wallet,4.0,1,Simple checkout process and clear delivery tracking,Windows,1
+TX10040,CUST0426,2024-01-01 13:01:12,Online Web,Apparel,29.75,1,0.05,28.26,Credit Card,5.0,3,Very pleased with this purchase will recommend to friends,Android,1
+TX10041,CUST0299,2024-01-01 13:13:51,Online Web,Apparel,41.98,3,0.0,125.94,Digital Wallet,4.0,2,Simple checkout process and clear delivery tracking,Android,1
+TX10042,CUST0292,2024-01-01 13:21:48,Mobile App,Beauty,30.2,2,0.2,48.32,Debit Card,5.0,2,Packaging was slightly damaged but item works fine,Windows,0
+TX10043,CUST0230,2024-01-01 13:28:21,Online Web,Apparel,46.5,1,0.0,46.5,Credit Card,5.0,3,Item arrived on time and as described,iOS,1
+TX10044,CUST0109,2024-01-01 13:33:50,In Store,Home Goods,69.98,1,0.0,69.98,Digital Wallet,5.0,3,Customer service was very helpful with my inquiry,Android,0
+TX10045,CUST0283,2024-01-01 13:37:14,Online Web,Beauty,29.12,3,0.1,78.62,Digital Wallet,5.0,2,Packaging was slightly damaged but item works fine,iOS,0
+TX10046,CUST0135,2024-01-01 13:41:39,Mobile App,Home Goods,79.96,2,0.1,143.93,Credit Card,5.0,5,Customer service was very helpful with my inquiry,iOS,1
+TX10047,CUST0277,2024-01-01 13:55:25,Online Web,Electronics,99.43,1,0.0,99.43,Debit Card,5.0,4,Color is exactly as shown on the website,Android,0
+TX10048,CUST0224,2024-01-01 14:01:54,Mobile App,Electronics,105.38,2,0.0,210.76,Debit Card,4.0,5,Good value for money would purchase again,Windows,1
+TX10049,CUST0437,2024-01-01 14:04:23,Mobile App,Beauty,24.11,1,0.0,24.11,Credit Card,5.0,2,Packaging was slightly damaged but item works fine,iOS,0
+TX10050,CUST0422,2024-01-01 14:06:42,Online Web,Electronics,137.93,1,0.0,137.93,Digital Wallet,5.0,5,Fast delivery and great quality product,Android,1
+TX10051,CUST0154,2024-01-01 14:13:56,In Store,Beauty,32.54,1,0.0,32.54,Debit Card,5.0,2,Very pleased with this purchase will recommend to friends,Android,1
+TX10052,CUST0398,2024-01-01 14:16:20,Mobile App,Apparel,48.65,1,0.0,48.65,Bank Transfer,4.0,1,Good value for money would purchase again,iOS,1
+TX10053,CUST0271,2024-01-01 14:23:12,In Store,Groceries,21.83,1,0.0,21.83,Digital Wallet,5.0,4,Packaging was slightly damaged but item works fine,iOS,1
+TX10054,CUST0169,2024-01-01 14:29:49,In Store,Beauty,22.06,4,0.0,88.24,Digital Wallet,5.0,3,Fast delivery and great quality product,macOS,0
+TX10055,CUST0123,2024-01-01 14:40:52,Mobile App,Groceries,23.4,3,0.05,66.69,Credit Card,3.0,3,Fast delivery and great quality product,Android,1
+TX10056,CUST0281,2024-01-01 14:46:07,In Store,Apparel,57.34,2,0.2,91.74,Bank Transfer,4.0,2,Very pleased with this purchase will recommend to friends,Android,0
+TX10057,CUST0380,2024-01-01 15:00:38,Online Web,Beauty,31.71,1,0.05,30.12,Credit Card,3.0,1,Packaging was slightly damaged but item works fine,Android,1
+TX10058,CUST0274,2024-01-01 15:02:07,Online Web,Apparel,59.43,1,0.0,59.43,Digital Wallet,5.0,3,Good value for money would purchase again,iOS,0
+TX10059,CUST0430,2024-01-01 15:15:19,Online Web,Apparel,31.58,2,0.0,63.16,Credit Card,5.0,2,Delivery was delayed by two days but support notified me,Android,1
+TX10060,CUST0190,2024-01-01 15:23:54,Online Web,Home Goods,58.86,1,0.2,47.09,Credit Card,4.0,3,Item arrived on time and as described,Android,1
+TX10061,CUST0338,2024-01-01 15:33:48,Online Web,Beauty,24.29,1,0.0,24.29,Credit Card,5.0,2,Fast delivery and great quality product,Android,1
+TX10062,CUST0346,2024-01-01 15:36:40,Online Web,Groceries,20.34,1,0.0,20.34,Bank Transfer,5.0,6,Simple checkout process and clear delivery tracking,iOS,0
+TX10063,CUST0424,2024-01-01 15:43:52,Mobile App,Beauty,22.71,3,0.05,64.72,Credit Card,5.0,3,Packaging was slightly damaged but item works fine,iOS,1
+TX10064,CUST0194,2024-01-01 15:45:57,Online Web,Apparel,51.14,1,0.05,48.58,Digital Wallet,3.0,3,Delivery was delayed by two days but support notified me,iOS,1
+TX10065,CUST0170,2024-01-01 15:56:07,Online Web,Apparel,56.1,1,0.05,53.3,Credit Card,5.0,5,Delivery was delayed by two days but support notified me,macOS,1
+TX10066,CUST0133,2024-01-01 16:01:52,Mobile App,Home Goods,73.13,2,0.0,146.26,Credit Card,2.0,3,Delivery was delayed by two days but support notified me,Android,0
+TX10067,CUST0335,2024-01-01 16:16:46,Online Web,Electronics,126.13,1,0.0,126.13,Credit Card,3.0,1,Color is exactly as shown on the website,Android,1
+TX10068,CUST0119,2024-01-01 16:28:14,Mobile App,Electronics,98.66,1,0.2,78.93,Digital Wallet,5.0,1,Good value for money would purchase again,iOS,1
+TX10069,CUST0251,2024-01-01 16:39:32,Online Web,Apparel,38.14,1,0.0,38.14,Credit Card,4.0,3,Fast delivery and great quality product,iOS,1
+TX10070,CUST0204,2024-01-01 16:46:27,In Store,Apparel,55.12,1,0.05,52.36,Credit Card,4.0,2,Packaging was slightly damaged but item works fine,Android,0
+TX10071,CUST0123,2024-01-01 16:57:03,Mobile App,Apparel,51.31,2,0.1,92.36,Credit Card,3.0,3,Delivery was delayed by two days but support notified me,Android,0
+TX10072,CUST0203,2024-01-01 17:01:04,Online Web,Electronics,119.16,1,0.05,113.2,Credit Card,5.0,2,Item arrived on time and as described,Android,1
+TX10073,CUST0122,2024-01-01 17:13:50,Online Web,Electronics,110.97,1,0.0,110.97,Bank Transfer,4.0,2,Item arrived on time and as described,iOS,1
+TX10074,CUST0262,2024-01-01 17:15:46,Mobile App,Electronics,76.24,3,0.0,228.72,Debit Card,5.0,3,Satisfactory purchase overall meets expectations,Android,1
+TX10075,CUST0259,2024-01-01 17:17:17,Mobile App,Groceries,14.53,3,0.05,41.41,Credit Card,2.0,6,Delivery was delayed by two days but support notified me,iOS,1
+TX10076,CUST0364,2024-01-01 17:29:19,Mobile App,Apparel,60.48,3,0.15,154.22,Digital Wallet,5.0,3,Item arrived on time and as described,iOS,1
+TX10077,CUST0304,2024-01-01 17:33:57,Mobile App,Apparel,34.63,1,0.15,29.44,Debit Card,5.0,5,Simple checkout process and clear delivery tracking,Android,0
+TX10078,CUST0379,2024-01-01 17:47:53,Online Web,Home Goods,67.22,1,0.0,67.22,Credit Card,4.0,6,Fast delivery and great quality product,iOS,1
+TX10079,CUST0343,2024-01-01 17:53:34,Online Web,Electronics,141.76,5,0.0,708.8,Debit Card,3.0,2,Good value for money would purchase again,iOS,0
+TX10080,CUST0230,2024-01-01 17:55:40,Online Web,Groceries,13.93,2,0.15,23.68,Debit Card,4.0,2,Good value for money would purchase again,Android,1
+TX10081,CUST0119,2024-01-01 18:00:23,In Store,Beauty,28.93,1,0.1,26.04,Credit Card,5.0,4,Simple checkout process and clear delivery tracking,Android,0
+TX10082,CUST0432,2024-01-01 18:02:51,Mobile App,Electronics,140.26,1,0.15,119.22,Credit Card,5.0,4,Packaging was slightly damaged but item works fine,Windows,1
+TX10083,CUST0198,2024-01-01 18:10:05,Online Web,Apparel,45.1,1,0.0,45.1,Bank Transfer,1.0,3,Item arrived on time and as described,Android,1
+TX10084,CUST0247,2024-01-01 18:15:34,Online Web,Beauty,42.46,4,0.05,161.35,Digital Wallet,4.0,7,Customer service was very helpful with my inquiry,iOS,1
+TX10085,CUST0283,2024-01-01 18:24:03,Online Web,Groceries,12.59,1,0.1,11.33,Credit Card,3.0,1,Item arrived on time and as described,iOS,1
+TX10086,CUST0125,2024-01-01 18:35:38,Online Web,Apparel,53.58,1,0.05,50.9,Credit Card,5.0,2,Very pleased with this purchase will recommend to friends,macOS,1
+TX10087,CUST0436,2024-01-01 18:50:37,Mobile App,Home Goods,62.98,1,0.0,62.98,Credit Card,5.0,3,Satisfactory purchase overall meets expectations,Android,0
+TX10088,CUST0270,2024-01-01 18:57:35,Mobile App,Electronics,136.67,2,0.0,273.34,Digital Wallet,4.0,2,Simple checkout process and clear delivery tracking,Android,0
+TX10089,CUST0240,2024-01-01 19:01:06,In Store,Groceries,19.43,3,0.05,55.38,Digital Wallet,,1,Simple checkout process and clear delivery tracking,iOS,1
+TX10090,CUST0164,2024-01-01 19:08:10,Mobile App,Electronics,104.16,1,0.0,104.16,Bank Transfer,5.0,2,Simple checkout process and clear delivery tracking,Android,1
+TX10091,CUST0289,2024-01-01 19:14:58,Online Web,Groceries,18.74,2,0.0,37.48,Credit Card,3.0,1,Customer service was very helpful with my inquiry,iOS,1
+TX10092,CUST0324,2024-01-01 19:19:17,Mobile App,Home Goods,43.26,5,0.2,173.04,Digital Wallet,4.0,3,Very pleased with this purchase will recommend to friends,Android,1
+TX10093,CUST0305,2024-01-01 19:31:28,Mobile App,Home Goods,72.06,1,0.0,72.06,Digital Wallet,5.0,5,Satisfactory purchase overall meets expectations,macOS,1
+TX10094,CUST0326,2024-01-01 19:36:46,Mobile App,Apparel,47.42,1,0.1,42.68,Credit Card,5.0,5,Delivery was delayed by two days but support notified me,macOS,0
+TX10095,CUST0298,2024-01-01 19:49:29,Mobile App,Electronics,133.8,1,0.0,133.8,Credit Card,5.0,3,Delivery was delayed by two days but support notified me,Android,0
+TX10096,CUST0274,2024-01-01 20:01:53,Mobile App,Electronics,142.86,2,0.05,271.43,Bank Transfer,4.0,2,Packaging was slightly damaged but item works fine,Android,0
+TX10097,CUST0196,2024-01-01 20:13:41,Mobile App,Electronics,127.94,2,0.2,204.7,Debit Card,,3,Simple checkout process and clear delivery tracking,macOS,1
+TX10098,CUST0355,2024-01-01 20:15:39,Online Web,Electronics,123.2,2,0.0,246.4,Digital Wallet,5.0,1,Satisfactory purchase overall meets expectations,Android,0
+TX10099,CUST0355,2024-01-01 20:26:47,Online Web,Beauty,23.56,2,0.0,47.12,Digital Wallet,3.0,2,Packaging was slightly damaged but item works fine,iOS,0
+TX10100,CUST0289,2024-01-01 20:38:22,Online Web,Apparel,39.23,1,0.0,39.23,Credit Card,5.0,2,Simple checkout process and clear delivery tracking,Android,1
+TX10101,CUST0366,2024-01-01 20:42:02,Online Web,Electronics,145.63,4,0.0,582.52,Digital Wallet,5.0,4,Simple checkout process and clear delivery tracking,iOS,1
+TX10102,CUST0237,2024-01-01 20:51:53,Mobile App,Groceries,22.65,1,0.1,20.38,Digital Wallet,5.0,5,Fast delivery and great quality product,Android,0
+TX10103,CUST0143,2024-01-01 21:05:04,Online Web,Beauty,26.8,1,0.15,22.78,Digital Wallet,4.0,3,Simple checkout process and clear delivery tracking,Android,1
+TX10104,CUST0318,2024-01-01 21:09:59,Mobile App,Groceries,18.15,2,0.0,36.3,Bank Transfer,4.0,3,Item arrived on time and as described,Android,1
+TX10105,CUST0141,2024-01-01 21:13:31,In Store,Groceries,15.07,2,0.0,30.14,Digital Wallet,5.0,1,Customer service was very helpful with my inquiry,iOS,1
+TX10106,CUST0321,2024-01-01 21:22:09,Online Web,Electronics,145.33,1,0.0,145.33,Credit Card,4.0,3,Customer service was very helpful with my inquiry,iOS,1
+TX10107,CUST0409,2024-01-01 21:29:22,Online Web,Apparel,50.39,3,0.1,136.05,Digital Wallet,4.0,3,Packaging was slightly damaged but item works fine,Android,1
+TX10108,CUST0193,2024-01-01 21:34:43,Mobile App,Beauty,37.78,4,0.0,151.12,Credit Card,5.0,2,Item arrived on time and as described,Windows,0
+TX10109,CUST0380,2024-01-01 21:46:23,Online Web,Home Goods,54.72,1,0.05,51.98,Credit Card,5.0,2,Good value for money would purchase again,Android,0
+TX10110,CUST0251,2024-01-01 21:58:52,Online Web,Electronics,111.84,5,0.05,531.24,Credit Card,5.0,5,Customer service was very helpful with my inquiry,iOS,0
+TX10111,CUST0265,2024-01-01 22:09:07,Online Web,Beauty,29.17,1,0.05,27.71,Credit Card,5.0,3,Good value for money would purchase again,macOS,1
+TX10112,CUST0153,2024-01-01 22:13:36,Online Web,Electronics,133.96,1,0.0,133.96,Digital Wallet,4.0,5,Very pleased with this purchase will recommend to friends,macOS,1
+TX10113,CUST0141,2024-01-01 22:26:02,In Store,Electronics,115.34,1,0.1,103.81,Digital Wallet,4.0,4,Item arrived on time and as described,iOS,1
+TX10114,CUST0268,2024-01-01 22:32:19,Mobile App,Apparel,37.93,3,0.0,113.79,Digital Wallet,5.0,7,Good value for money would purchase again,iOS,1
+TX10115,CUST0439,2024-01-01 22:46:10,Mobile App,Home Goods,75.31,2,0.0,150.62,Digital Wallet,5.0,2,Fast delivery and great quality product,Android,1
+TX10116,CUST0252,2024-01-01 23:00:09,In Store,Home Goods,73.44,1,0.15,62.42,Credit Card,5.0,1,Satisfactory purchase overall meets expectations,Windows,1
+TX10117,CUST0257,2024-01-01 23:01:51,Mobile App,Electronics,100.21,1,0.1,90.19,Debit Card,4.0,2,Delivery was delayed by two days but support notified me,macOS,1
+TX10118,CUST0329,2024-01-01 23:06:30,Online Web,Beauty,34.83,2,0.0,69.66,Credit Card,5.0,1,Simple checkout process and clear delivery tracking,Windows,1
+TX10119,CUST0409,2024-01-01 23:21:16,In Store,Apparel,54.48,1,0.0,54.48,Credit Card,4.0,3,Delivery was delayed by two days but support notified me,Android,1
+TX10120,CUST0319,2024-01-01 23:22:33,Mobile App,Electronics,122.9,3,0.0,368.7,Digital Wallet,5.0,3,Packaging was slightly damaged but item works fine,Android,1
+TX10121,CUST0186,2024-01-01 23:37:02,Mobile App,Beauty,28.4,3,0.0,85.2,Credit Card,4.0,3,Fast delivery and great quality product,iOS,0
+TX10122,CUST0328,2024-01-01 23:43:10,In Store,Groceries,19.8,1,0.0,19.8,Credit Card,3.0,2,Customer service was very helpful with my inquiry,iOS,1
+TX10123,CUST0280,2024-01-01 23:50:45,Online Web,Beauty,23.66,5,0.0,118.3,Digital Wallet,,5,Packaging was slightly damaged but item works fine,Android,0
+TX10124,CUST0329,2024-01-01 23:56:04,Online Web,Beauty,28.15,1,0.0,28.15,Digital Wallet,5.0,1,Packaging was slightly damaged but item works fine,Android,1
+TX10125,CUST0122,2024-01-01 23:57:56,Online Web,Home Goods,39.82,5,0.1,179.19,Credit Card,1.0,2,Delivery was delayed by two days but support notified me,Android,1
+TX10126,CUST0281,2024-01-02 00:02:17,Online Web,Home Goods,75.25,2,0.05,142.98,Bank Transfer,5.0,3,Item arrived on time and as described,Android,0
+TX10127,CUST0415,2024-01-02 00:12:42,Mobile App,Electronics,86.27,2,0.05,163.91,Digital Wallet,4.0,4,Customer service was very helpful with my inquiry,iOS,1
+TX10128,CUST0323,2024-01-02 00:25:42,In Store,Apparel,57.18,1,0.0,57.18,Debit Card,5.0,2,Packaging was slightly damaged but item works fine,Android,1
+TX10129,CUST0241,2024-01-02 00:31:49,Online Web,Apparel,42.33,3,0.2,101.59,Credit Card,4.0,1,Simple checkout process and clear delivery tracking,iOS,0
+TX10130,CUST0428,2024-01-02 00:36:11,Mobile App,Apparel,43.29,1,0.1,38.96,Digital Wallet,5.0,3,Customer service was very helpful with my inquiry,Android,1
+TX10131,CUST0130,2024-01-02 00:48:07,Online Web,Home Goods,57.66,1,0.1,51.89,Debit Card,2.0,1,Satisfactory purchase overall meets expectations,Windows,0
+TX10132,CUST0139,2024-01-02 00:57:23,Online Web,Apparel,42.67,1,0.1,38.4,Digital Wallet,4.0,1,Item arrived on time and as described,Android,1
+TX10133,CUST0444,2024-01-02 01:04:53,Online Web,Electronics,150.64,2,0.15,256.09,Digital Wallet,4.0,3,Very pleased with this purchase will recommend to friends,macOS,1
+TX10134,CUST0427,2024-01-02 01:16:36,Online Web,Electronics,66.26,1,0.05,62.95,Credit Card,4.0,2,Customer service was very helpful with my inquiry,iOS,1
+TX10135,CUST0308,2024-01-02 01:25:10,In Store,Home Goods,79.94,2,0.0,159.88,Credit Card,4.0,2,Good value for money would purchase again,Android,1
+TX10136,CUST0287,2024-01-02 01:28:21,Online Web,Electronics,127.3,3,0.05,362.8,Digital Wallet,5.0,2,Packaging was slightly damaged but item works fine,iOS,0
+TX10137,CUST0363,2024-01-02 01:33:37,Mobile App,Beauty,21.92,1,0.1,19.73,Credit Card,3.0,6,Good value for money would purchase again,Android,0
+TX10138,CUST0448,2024-01-02 01:36:44,Mobile App,Apparel,36.29,2,0.1,65.32,Debit Card,2.0,6,Item arrived on time and as described,Windows,1
+TX10139,CUST0182,2024-01-02 01:41:41,Online Web,Apparel,58.58,1,0.05,55.65,Credit Card,5.0,2,Fast delivery and great quality product,Android,1
+TX10140,CUST0116,2024-01-02 01:55:08,In Store,Home Goods,53.94,3,0.0,161.82,Bank Transfer,2.0,2,Good value for money would purchase again,Windows,0
+TX10141,CUST0174,2024-01-02 02:05:27,In Store,Beauty,22.19,3,0.0,66.57,Bank Transfer,4.0,2,Packaging was slightly damaged but item works fine,iOS,1
+TX10142,CUST0412,2024-01-02 02:15:23,Online Web,Apparel,54.21,1,0.15,46.08,Credit Card,4.0,2,Simple checkout process and clear delivery tracking,Windows,1
+TX10143,CUST0448,2024-01-02 02:20:37,Mobile App,Home Goods,68.96,2,0.05,131.02,Credit Card,,3,Simple checkout process and clear delivery tracking,iOS,1
+TX10144,CUST0325,2024-01-02 02:34:06,Online Web,Home Goods,54.03,1,0.05,51.33,Debit Card,5.0,3,Packaging was slightly damaged but item works fine,Windows,1
+TX10145,CUST0118,2024-01-02 02:44:49,Online Web,Apparel,46.75,1,0.0,46.75,Bank Transfer,5.0,2,Delivery was delayed by two days but support notified me,iOS,0
+TX10146,CUST0165,2024-01-02 02:52:52,Online Web,Beauty,22.83,3,0.0,68.49,Credit Card,5.0,2,Item arrived on time and as described,iOS,0
+TX10147,CUST0135,2024-01-02 03:03:34,Mobile App,Beauty,33.55,1,0.15,28.52,Credit Card,4.0,2,Delivery was delayed by two days but support notified me,Android,1
+TX10148,CUST0221,2024-01-02 03:11:07,Mobile App,Home Goods,77.42,1,0.05,73.55,Digital Wallet,,2,Packaging was slightly damaged but item works fine,macOS,1
+TX10149,CUST0431,2024-01-02 03:18:02,Online Web,Beauty,30.68,1,0.1,27.61,Digital Wallet,5.0,2,Satisfactory purchase overall meets expectations,iOS,1
+TX10150,CUST0288,2024-01-02 03:22:31,Online Web,Beauty,29.82,3,0.0,89.46,Credit Card,1.0,3,Packaging was slightly damaged but item works fine,iOS,1
+TX10151,CUST0286,2024-01-02 03:25:37,In Store,Home Goods,85.61,1,0.05,81.33,Digital Wallet,5.0,3,Very pleased with this purchase will recommend to friends,Windows,1
+TX10152,CUST0297,2024-01-02 03:35:03,Online Web,Beauty,28.0,1,0.0,28.0,Credit Card,5.0,3,Very pleased with this purchase will recommend to friends,iOS,0
+TX10153,CUST0391,2024-01-02 03:44:13,Online Web,Home Goods,51.17,2,0.1,92.11,Credit Card,5.0,2,Delivery was delayed by two days but support notified me,iOS,1
+TX10154,CUST0117,2024-01-02 03:46:31,Mobile App,Home Goods,70.26,3,0.0,210.78,Credit Card,5.0,3,Delivery was delayed by two days but support notified me,Android,1
+TX10155,CUST0410,2024-01-02 04:00:09,In Store,Home Goods,89.41,1,0.0,89.41,Credit Card,4.0,2,Item arrived on time and as described,iOS,1
+TX10156,CUST0179,2024-01-02 04:01:42,Online Web,Beauty,22.89,1,0.05,21.75,Credit Card,4.0,1,Simple checkout process and clear delivery tracking,macOS,1
+TX10157,CUST0448,2024-01-02 04:04:19,Mobile App,Electronics,112.19,1,0.15,95.36,Digital Wallet,4.0,3,Fast delivery and great quality product,Windows,1
+TX10158,CUST0331,2024-01-02 04:07:40,Mobile App,Beauty,30.1,1,0.0,30.1,Credit Card,5.0,2,Satisfactory purchase overall meets expectations,Android,0
+TX10159,CUST0290,2024-01-02 04:19:07,Online Web,Beauty,27.73,1,0.1,24.96,Credit Card,4.0,3,Color is exactly as shown on the website,macOS,1
+TX10160,CUST0291,2024-01-02 04:22:35,Mobile App,Electronics,98.78,2,0.0,197.56,Credit Card,5.0,3,Simple checkout process and clear delivery tracking,Android,0
+TX10161,CUST0328,2024-01-02 04:36:51,Online Web,Beauty,33.65,2,0.0,67.3,Bank Transfer,5.0,5,Packaging was slightly damaged but item works fine,iOS,1
+TX10162,CUST0140,2024-01-02 04:49:12,Mobile App,Electronics,170.11,2,0.0,340.22,Credit Card,,6,Fast delivery and great quality product,iOS,1
+TX10163,CUST0394,2024-01-02 04:57:09,Mobile App,Apparel,46.59,1,0.0,46.59,Credit Card,5.0,1,Item arrived on time and as described,Android,1
+TX10164,CUST0171,2024-01-02 05:08:04,Mobile App,Home Goods,54.42,3,0.05,155.1,Digital Wallet,5.0,7,Customer service was very helpful with my inquiry,iOS,1
+TX10165,CUST0372,2024-01-02 05:09:54,Online Web,Electronics,86.54,1,0.0,86.54,Bank Transfer,5.0,3,Simple checkout process and clear delivery tracking,macOS,1
+TX10166,CUST0288,2024-01-02 05:17:13,Mobile App,Beauty,29.3,5,0.0,146.5,Credit Card,1.0,3,Simple checkout process and clear delivery tracking,Windows,1
+TX10167,CUST0304,2024-01-02 05:24:28,Online Web,Beauty,33.56,2,0.15,57.05,Digital Wallet,5.0,1,Fast delivery and great quality product,iOS,0
+TX10168,CUST0261,2024-01-02 05:35:23,Online Web,Apparel,48.85,1,0.0,48.85,Digital Wallet,5.0,4,Packaging was slightly damaged but item works fine,Android,0
+TX10169,CUST0433,2024-01-02 05:44:07,Online Web,Electronics,119.95,2,0.1,215.91,Digital Wallet,5.0,1,Simple checkout process and clear delivery tracking,Android,1
+TX10170,CUST0243,2024-01-02 05:53:53,Mobile App,Apparel,40.23,1,0.0,40.23,Credit Card,4.0,4,Fast delivery and great quality product,macOS,1
+TX10171,CUST0228,2024-01-02 05:58:55,Mobile App,Home Goods,52.22,2,0.05,99.22,Digital Wallet,5.0,1,Good value for money would purchase again,Windows,1
+TX10172,CUST0159,2024-01-02 06:09:06,Online Web,Groceries,20.7,1,0.0,20.7,Credit Card,3.0,3,Delivery was delayed by two days but support notified me,Android,1
+TX10173,CUST0114,2024-01-02 06:10:02,Mobile App,Home Goods,75.69,1,0.0,75.69,Digital Wallet,1.0,2,Very pleased with this purchase will recommend to friends,Windows,1
+TX10174,CUST0196,2024-01-02 06:22:23,Online Web,Apparel,32.48,3,0.0,97.44,Digital Wallet,5.0,2,Delivery was delayed by two days but support notified me,Android,0
+TX10175,CUST0356,2024-01-02 06:35:26,Mobile App,Home Goods,83.6,1,0.0,83.6,Credit Card,5.0,1,Packaging was slightly damaged but item works fine,Android,1
+TX10176,CUST0366,2024-01-02 06:38:08,Online Web,Apparel,49.65,3,0.0,148.95,Debit Card,5.0,2,Good value for money would purchase again,iOS,1
+TX10177,CUST0299,2024-01-02 06:50:31,Mobile App,Beauty,35.05,1,0.05,33.3,Credit Card,4.0,1,Simple checkout process and clear delivery tracking,iOS,1
+TX10178,CUST0388,2024-01-02 07:00:25,Online Web,Electronics,91.01,2,0.15,154.72,Debit Card,5.0,2,Satisfactory purchase overall meets expectations,Android,1
+TX10179,CUST0161,2024-01-02 07:13:58,In Store,Beauty,21.12,2,0.1,38.02,Digital Wallet,5.0,3,Delivery was delayed by two days but support notified me,iOS,0
+TX10180,CUST0235,2024-01-02 07:19:16,Online Web,Apparel,43.79,1,0.05,41.6,Credit Card,5.0,4,Item arrived on time and as described,iOS,1
+TX10181,CUST0234,2024-01-02 07:33:08,Online Web,Groceries,19.63,1,0.0,19.63,Credit Card,4.0,3,Delivery was delayed by two days but support notified me,Android,1
+TX10182,CUST0329,2024-01-02 07:44:49,Online Web,Apparel,59.55,1,0.0,59.55,Bank Transfer,5.0,1,Color is exactly as shown on the website,iOS,0
+TX10183,CUST0210,2024-01-02 07:51:22,In Store,Home Goods,73.26,1,0.0,73.26,Credit Card,5.0,2,Satisfactory purchase overall meets expectations,Android,1
+TX10184,CUST0414,2024-01-02 07:54:01,In Store,Groceries,17.21,1,0.0,17.21,Credit Card,4.0,2,Color is exactly as shown on the website,Android,0
+TX10185,CUST0247,2024-01-02 07:59:46,Online Web,Electronics,97.83,2,0.05,185.88,Credit Card,4.0,5,Color is exactly as shown on the website,macOS,1
+TX10186,CUST0352,2024-01-02 08:07:56,Mobile App,Groceries,21.99,4,0.05,83.56,Digital Wallet,3.0,4,Item arrived on time and as described,Android,1
+TX10187,CUST0203,2024-01-02 08:11:22,Mobile App,Home Goods,53.71,3,0.0,161.13,Digital Wallet,5.0,2,Good value for money would purchase again,iOS,0
+TX10188,CUST0163,2024-01-02 08:19:51,Mobile App,Electronics,155.17,2,0.0,310.34,Credit Card,4.0,1,Color is exactly as shown on the website,Android,1
+TX10189,CUST0170,2024-01-02 08:20:39,Mobile App,Apparel,42.7,2,0.1,76.86,Credit Card,4.0,5,Satisfactory purchase overall meets expectations,Windows,1
+TX10190,CUST0138,2024-01-02 08:33:43,Online Web,Home Goods,83.61,2,0.1,150.5,Credit Card,5.0,5,Delivery was delayed by two days but support notified me,macOS,1
+TX10191,CUST0332,2024-01-02 08:46:44,Online Web,Electronics,134.66,1,0.0,134.66,Credit Card,4.0,4,Packaging was slightly damaged but item works fine,Android,1
+TX10192,CUST0189,2024-01-02 08:51:58,In Store,Home Goods,63.4,4,0.15,215.56,Credit Card,5.0,4,Satisfactory purchase overall meets expectations,iOS,1
+TX10193,CUST0328,2024-01-02 09:01:15,In Store,Apparel,40.79,2,0.2,65.26,Digital Wallet,2.0,2,Very pleased with this purchase will recommend to friends,macOS,0
+TX10194,CUST0145,2024-01-02 09:15:00,Mobile App,Home Goods,61.01,2,0.0,122.02,Credit Card,5.0,2,Fast delivery and great quality product,iOS,0
+TX10195,CUST0450,2024-01-02 09:18:47,Online Web,Electronics,129.25,1,0.0,129.25,Credit Card,4.0,2,Delivery was delayed by two days but support notified me,Android,1
+TX10196,CUST0264,2024-01-02 09:28:11,Online Web,Beauty,28.39,1,0.05,26.97,Credit Card,5.0,2,Item arrived on time and as described,Android,1
+TX10197,CUST0442,2024-01-02 09:30:44,Mobile App,Groceries,16.08,1,0.15,13.67,Bank Transfer,2.0,2,Color is exactly as shown on the website,iOS,1
+TX10198,CUST0278,2024-01-02 09:42:09,In Store,Groceries,17.46,3,0.15,44.52,Bank Transfer,,3,Packaging was slightly damaged but item works fine,iOS,1
+TX10199,CUST0134,2024-01-02 09:47:59,In Store,Home Goods,65.92,1,0.0,65.92,Debit Card,1.0,2,Color is exactly as shown on the website,iOS,1
+TX10200,CUST0382,2024-01-02 09:59:38,Mobile App,Electronics,74.02,1,0.0,74.02,Credit Card,2.0,2,Item arrived on time and as described,Android,1
+TX10201,CUST0378,2024-01-02 10:09:02,Mobile App,Beauty,30.31,5,0.05,143.97,Credit Card,5.0,2,Satisfactory purchase overall meets expectations,macOS,0
+TX10202,CUST0249,2024-01-02 10:20:10,Online Web,Electronics,98.84,1,0.05,93.9,Credit Card,3.0,1,Very pleased with this purchase will recommend to friends,iOS,1
+TX10203,CUST0254,2024-01-02 10:24:18,Online Web,Electronics,95.09,1,0.0,95.09,Credit Card,1.0,2,Fast delivery and great quality product,Windows,1
+TX10204,CUST0181,2024-01-02 10:27:39,In Store,Apparel,31.33,1,0.15,26.63,Digital Wallet,5.0,4,Very pleased with this purchase will recommend to friends,iOS,1
+TX10205,CUST0427,2024-01-02 10:34:46,Mobile App,Apparel,30.47,2,0.05,57.89,Digital Wallet,5.0,4,Delivery was delayed by two days but support notified me,Android,0
+TX10206,CUST0190,2024-01-02 10:48:31,Online Web,Beauty,21.17,4,0.1,76.21,Debit Card,4.0,2,Satisfactory purchase overall meets expectations,iOS,0
+TX10207,CUST0286,2024-01-02 10:52:01,Online Web,Home Goods,56.7,1,0.15,48.2,Debit Card,5.0,3,Fast delivery and great quality product,macOS,1
+TX10208,CUST0361,2024-01-02 11:01:58,Mobile App,Apparel,60.82,3,0.1,164.21,Credit Card,5.0,1,Customer service was very helpful with my inquiry,Windows,1
+TX10209,CUST0215,2024-01-02 11:16:00,Online Web,Apparel,40.74,1,0.0,40.74,Digital Wallet,5.0,3,Very pleased with this purchase will recommend to friends,Android,0
+TX10210,CUST0163,2024-01-02 11:25:48,Online Web,Groceries,18.58,4,0.05,70.6,Credit Card,5.0,2,Color is exactly as shown on the website,Windows,1
+TX10211,CUST0203,2024-01-02 11:26:33,Mobile App,Apparel,48.24,2,0.0,96.48,Credit Card,5.0,2,Simple checkout process and clear delivery tracking,Android,0
+TX10212,CUST0172,2024-01-02 11:37:31,Mobile App,Apparel,46.06,3,0.05,131.27,Digital Wallet,5.0,5,Delivery was delayed by two days but support notified me,macOS,1
+TX10213,CUST0222,2024-01-02 11:43:47,Mobile App,Electronics,118.33,1,0.0,118.33,Credit Card,3.0,2,Delivery was delayed by two days but support notified me,Android,1
+TX10214,CUST0353,2024-01-02 11:52:52,Online Web,Beauty,21.98,5,0.05,104.4,Credit Card,4.0,1,Fast delivery and great quality product,macOS,1
+TX10215,CUST0114,2024-01-02 11:53:56,Mobile App,Home Goods,81.98,2,0.0,163.96,Credit Card,5.0,2,Customer service was very helpful with my inquiry,Android,0
+TX10216,CUST0285,2024-01-02 11:56:35,Online Web,Electronics,159.04,1,0.0,159.04,Digital Wallet,4.0,2,Packaging was slightly damaged but item works fine,iOS,1
+TX10217,CUST0384,2024-01-02 12:03:31,Online Web,Electronics,83.65,3,0.0,250.95,Digital Wallet,4.0,2,Very pleased with this purchase will recommend to friends,Android,0
+TX10218,CUST0394,2024-01-02 12:18:27,Mobile App,Home Goods,53.02,1,0.0,53.02,Credit Card,2.0,4,Good value for money would purchase again,iOS,1
+TX10219,CUST0289,2024-01-02 12:32:58,Mobile App,Home Goods,61.73,3,0.1,166.67,Debit Card,5.0,3,Packaging was slightly damaged but item works fine,Android,1
+TX10220,CUST0340,2024-01-02 12:38:57,Mobile App,Apparel,37.19,1,0.1,33.47,Credit Card,5.0,3,Delivery was delayed by two days but support notified me,Android,1
+TX10221,CUST0383,2024-01-02 12:43:47,Mobile App,Groceries,19.64,2,0.05,37.32,Credit Card,2.0,2,Delivery was delayed by two days but support notified me,Android,1
+TX10222,CUST0167,2024-01-02 12:45:31,Mobile App,Electronics,104.27,1,0.0,104.27,Digital Wallet,2.0,2,Item arrived on time and as described,iOS,1
+TX10223,CUST0414,2024-01-02 12:50:22,Online Web,Apparel,62.54,1,0.0,62.54,Digital Wallet,4.0,2,Fast delivery and great quality product,iOS,1
+TX10224,CUST0145,2024-01-02 13:00:47,Online Web,Groceries,21.86,1,0.0,21.86,Bank Transfer,4.0,2,Simple checkout process and clear delivery tracking,Android,0
+TX10225,CUST0134,2024-01-02 13:02:52,Online Web,Apparel,46.72,1,0.0,46.72,Credit Card,,3,Customer service was very helpful with my inquiry,macOS,1
+TX10226,CUST0259,2024-01-02 13:05:04,Online Web,Home Goods,77.02,1,0.15,65.47,Digital Wallet,4.0,2,Good value for money would purchase again,iOS,0
+TX10227,CUST0304,2024-01-02 13:18:18,In Store,Apparel,53.96,1,0.0,53.96,Digital Wallet,5.0,5,Packaging was slightly damaged but item works fine,Android,1
+TX10228,CUST0346,2024-01-02 13:27:20,Online Web,Apparel,40.43,2,0.0,80.86,Debit Card,5.0,2,Very pleased with this purchase will recommend to friends,Android,0
+TX10229,CUST0370,2024-01-02 13:42:00,In Store,Groceries,15.36,1,0.0,15.36,Credit Card,3.0,1,Fast delivery and great quality product,Android,1
+TX10230,CUST0311,2024-01-02 13:43:55,Mobile App,Apparel,45.63,1,0.0,45.63,Digital Wallet,5.0,1,Very pleased with this purchase will recommend to friends,iOS,1
+TX10231,CUST0310,2024-01-02 13:57:38,Mobile App,Beauty,32.34,2,0.05,61.45,Digital Wallet,5.0,1,Satisfactory purchase overall meets expectations,Android,1
+TX10232,CUST0395,2024-01-02 14:07:28,Mobile App,Electronics,123.0,1,0.05,116.85,Credit Card,2.0,2,Item arrived on time and as described,iOS,1
+TX10233,CUST0138,2024-01-02 14:21:17,Mobile App,Electronics,85.94,4,0.0,343.76,Digital Wallet,5.0,2,Customer service was very helpful with my inquiry,macOS,0
+TX10234,CUST0165,2024-01-02 14:24:10,Mobile App,Electronics,102.66,3,0.0,307.98,Credit Card,1.0,1,Item arrived on time and as described,iOS,1
+TX10235,CUST0263,2024-01-02 14:27:06,Online Web,Home Goods,64.13,2,0.0,128.26,Digital Wallet,1.0,3,Delivery was delayed by two days but support notified me,iOS,1
+TX10236,CUST0429,2024-01-02 14:39:06,Mobile App,Apparel,44.39,2,0.0,88.78,Debit Card,4.0,3,Item arrived on time and as described,iOS,0
+TX10237,CUST0138,2024-01-02 14:47:57,Online Web,Beauty,37.94,3,0.0,113.82,Digital Wallet,5.0,1,Good value for money would purchase again,iOS,1
+TX10238,CUST0331,2024-01-02 14:58:04,Online Web,Apparel,33.77,1,0.2,27.02,Digital Wallet,5.0,2,Delivery was delayed by two days but support notified me,Windows,0
+TX10239,CUST0339,2024-01-02 15:01:38,Mobile App,Groceries,19.64,1,0.05,18.66,Digital Wallet,5.0,3,Packaging was slightly damaged but item works fine,iOS,1
+TX10240,CUST0449,2024-01-02 15:06:54,Online Web,Electronics,152.16,1,0.05,144.55,Credit Card,5.0,7,Very pleased with this purchase will recommend to friends,iOS,0
+TX10241,CUST0365,2024-01-02 15:16:39,In Store,Beauty,39.45,2,0.0,78.9,Credit Card,5.0,3,Packaging was slightly damaged but item works fine,Android,1
+TX10242,CUST0277,2024-01-02 15:27:45,In Store,Beauty,25.96,1,0.0,25.96,Digital Wallet,1.0,2,Satisfactory purchase overall meets expectations,iOS,1
+TX10243,CUST0166,2024-01-02 15:35:43,In Store,Beauty,30.48,2,0.05,57.91,Credit Card,5.0,3,Delivery was delayed by two days but support notified me,iOS,1
+TX10244,CUST0383,2024-01-02 15:40:04,Online Web,Beauty,30.87,5,0.05,146.63,Credit Card,4.0,3,Delivery was delayed by two days but support notified me,Windows,0
+TX10245,CUST0428,2024-01-02 15:50:01,Online Web,Beauty,28.99,3,0.1,78.27,Digital Wallet,5.0,2,Customer service was very helpful with my inquiry,Windows,1
+TX10246,CUST0401,2024-01-02 16:03:39,In Store,Home Goods,63.84,1,0.0,63.84,Credit Card,4.0,4,Delivery was delayed by two days but support notified me,macOS,1
+TX10247,CUST0194,2024-01-02 16:16:51,Online Web,Electronics,129.42,1,0.05,122.95,Credit Card,2.0,2,Very pleased with this purchase will recommend to friends,Windows,1
+TX10248,CUST0167,2024-01-02 16:29:22,In Store,Electronics,65.3,3,0.0,195.9,Digital Wallet,5.0,6,Good value for money would purchase again,Android,0
+TX10249,CUST0322,2024-01-02 16:33:32,In Store,Groceries,20.21,2,0.15,34.36,Credit Card,5.0,3,Satisfactory purchase overall meets expectations,iOS,0
+TX10250,CUST0358,2024-01-02 16:46:27,In Store,Home Goods,66.48,1,0.05,63.16,Debit Card,4.0,3,Customer service was very helpful with my inquiry,Windows,0
+TX10251,CUST0129,2024-01-02 16:52:31,Online Web,Beauty,26.88,1,0.05,25.54,Debit Card,4.0,3,Simple checkout process and clear delivery tracking,Windows,1
+TX10252,CUST0164,2024-01-02 17:00:04,Online Web,Apparel,61.58,4,0.0,246.32,Digital Wallet,4.0,2,Very pleased with this purchase will recommend to friends,Windows,1
+TX10253,CUST0366,2024-01-02 17:12:16,In Store,Electronics,105.42,2,0.05,200.3,Credit Card,5.0,3,Good value for money would purchase again,Android,1
+TX10254,CUST0179,2024-01-02 17:24:06,Online Web,Electronics,111.29,3,0.0,333.87,Digital Wallet,5.0,4,Item arrived on time and as described,iOS,0
+TX10255,CUST0256,2024-01-02 17:31:13,Online Web,Home Goods,88.3,3,0.0,264.9,Debit Card,2.0,3,Packaging was slightly damaged but item works fine,Windows,1
+TX10256,CUST0185,2024-01-02 17:39:26,Mobile App,Apparel,38.26,2,0.0,76.52,Digital Wallet,2.0,5,Satisfactory purchase overall meets expectations,Android,1
+TX10257,CUST0183,2024-01-02 17:49:00,In Store,Electronics,108.12,1,0.05,102.71,Credit Card,5.0,5,Color is exactly as shown on the website,macOS,0
+TX10258,CUST0266,2024-01-02 17:57:27,Mobile App,Apparel,43.81,1,0.0,43.81,Digital Wallet,3.0,6,Very pleased with this purchase will recommend to friends,iOS,1
+TX10259,CUST0216,2024-01-02 18:00:15,Mobile App,Electronics,138.16,1,0.0,138.16,Debit Card,5.0,3,Packaging was slightly damaged but item works fine,iOS,1
+TX10260,CUST0278,2024-01-02 18:05:13,Online Web,Home Goods,67.43,1,0.15,57.32,Digital Wallet,5.0,3,Fast delivery and great quality product,iOS,1
+TX10261,CUST0366,2024-01-02 18:09:48,Mobile App,Apparel,34.53,2,0.0,69.06,Digital Wallet,5.0,2,Packaging was slightly damaged but item works fine,Windows,1
+TX10262,CUST0246,2024-01-02 18:11:38,In Store,Beauty,25.32,2,0.05,48.11,Digital Wallet,5.0,3,Packaging was slightly damaged but item works fine,iOS,0
+TX10263,CUST0141,2024-01-02 18:18:09,Online Web,Apparel,40.08,3,0.0,120.24,Digital Wallet,4.0,2,Simple checkout process and clear delivery tracking,iOS,1
+TX10264,CUST0229,2024-01-02 18:19:15,Mobile App,Apparel,44.37,1,0.0,44.37,Credit Card,5.0,2,Simple checkout process and clear delivery tracking,macOS,1
+TX10265,CUST0201,2024-01-02 18:30:02,In Store,Electronics,129.2,2,0.1,232.56,Digital Wallet,5.0,2,Delivery was delayed by two days but support notified me,iOS,1
+TX10266,CUST0426,2024-01-02 18:40:14,Mobile App,Electronics,129.03,2,0.0,258.06,Credit Card,4.0,5,Good value for money would purchase again,Windows,1
+TX10267,CUST0383,2024-01-02 18:44:54,Mobile App,Apparel,30.61,2,0.0,61.22,Credit Card,4.0,4,Delivery was delayed by two days but support notified me,iOS,0
+TX10268,CUST0241,2024-01-02 18:55:41,Mobile App,Apparel,53.62,2,0.05,101.88,Credit Card,4.0,3,Very pleased with this purchase will recommend to friends,Windows,1
+TX10269,CUST0165,2024-01-02 19:00:11,Online Web,Home Goods,67.96,1,0.05,64.56,Digital Wallet,2.0,2,Delivery was delayed by two days but support notified me,Android,1
+TX10270,CUST0421,2024-01-02 19:01:03,Online Web,Apparel,56.21,1,0.05,53.4,Credit Card,5.0,3,Color is exactly as shown on the website,macOS,1
+TX10271,CUST0256,2024-01-02 19:03:00,Mobile App,Home Goods,70.2,1,0.0,70.2,Digital Wallet,4.0,3,Color is exactly as shown on the website,macOS,1
+TX10272,CUST0415,2024-01-02 19:15:49,Mobile App,Beauty,33.55,1,0.0,33.55,Digital Wallet,4.0,2,Very pleased with this purchase will recommend to friends,iOS,1
+TX10273,CUST0374,2024-01-02 19:27:20,In Store,Beauty,30.35,1,0.1,27.32,Credit Card,4.0,2,Very pleased with this purchase will recommend to friends,iOS,0
+TX10274,CUST0148,2024-01-02 19:29:05,In Store,Electronics,149.08,2,0.05,283.25,Credit Card,5.0,2,Satisfactory purchase overall meets expectations,iOS,0
+TX10275,CUST0358,2024-01-02 19:33:44,Mobile App,Apparel,49.23,4,0.1,177.23,Credit Card,5.0,3,Delivery was delayed by two days but support notified me,Android,0
+TX10276,CUST0429,2024-01-02 19:35:38,Mobile App,Electronics,117.89,2,0.1,212.2,Debit Card,3.0,3,Color is exactly as shown on the website,Windows,1
+TX10277,CUST0187,2024-01-02 19:36:55,Mobile App,Electronics,169.08,2,0.1,304.34,Digital Wallet,5.0,2,Customer service was very helpful with my inquiry,Android,1
+TX10278,CUST0404,2024-01-02 19:43:18,Mobile App,Groceries,20.88,1,0.0,20.88,Digital Wallet,3.0,6,Customer service was very helpful with my inquiry,Android,1
+TX10279,CUST0398,2024-01-02 19:45:15,Mobile App,Electronics,132.39,2,0.0,264.78,Credit Card,4.0,1,Simple checkout process and clear delivery tracking,iOS,1
+TX10280,CUST0179,2024-01-02 19:54:46,Mobile App,Apparel,34.66,1,0.1,31.19,Digital Wallet,4.0,2,Satisfactory purchase overall meets expectations,Windows,1
+TX10281,CUST0188,2024-01-02 19:59:34,In Store,Home Goods,49.93,1,0.0,49.93,Debit Card,3.0,2,Customer service was very helpful with my inquiry,macOS,1
+TX10282,CUST0438,2024-01-02 20:05:04,Online Web,Home Goods,68.42,1,0.0,68.42,Debit Card,4.0,1,Satisfactory purchase overall meets expectations,iOS,0
+TX10283,CUST0420,2024-01-02 20:17:14,Online Web,Home Goods,66.7,1,0.15,56.7,Digital Wallet,5.0,2,Fast delivery and great quality product,Android,1
+TX10284,CUST0410,2024-01-02 20:26:16,Online Web,Electronics,106.73,1,0.15,90.72,Credit Card,4.0,2,Color is exactly as shown on the website,iOS,1
+TX10285,CUST0273,2024-01-02 20:30:40,Mobile App,Apparel,46.14,1,0.0,46.14,Credit Card,3.0,3,Delivery was delayed by two days but support notified me,Android,0
+TX10286,CUST0389,2024-01-02 20:40:37,Online Web,Apparel,57.87,1,0.0,57.87,Credit Card,5.0,2,Satisfactory purchase overall meets expectations,Android,1
+TX10287,CUST0122,2024-01-02 20:43:37,Mobile App,Electronics,135.02,5,0.0,675.1,Credit Card,5.0,3,Satisfactory purchase overall meets expectations,iOS,0
+TX10288,CUST0115,2024-01-02 20:56:42,Mobile App,Apparel,35.76,1,0.1,32.18,Credit Card,5.0,3,Good value for money would purchase again,Android,0
+TX10289,CUST0142,2024-01-02 21:07:11,Online Web,Electronics,117.59,1,0.15,99.95,Credit Card,2.0,1,Delivery was delayed by two days but support notified me,iOS,0
+TX10290,CUST0124,2024-01-02 21:17:46,Mobile App,Electronics,102.61,1,0.0,102.61,Credit Card,5.0,4,Fast delivery and great quality product,Android,1
+TX10291,CUST0429,2024-01-02 21:26:35,Online Web,Apparel,41.86,2,0.0,83.72,Debit Card,4.0,1,Good value for money would purchase again,Android,0
+TX10292,CUST0396,2024-01-02 21:31:28,Online Web,Electronics,111.07,1,0.15,94.41,Digital Wallet,,4,Very pleased with this purchase will recommend to friends,iOS,1
+TX10293,CUST0236,2024-01-02 21:45:36,Mobile App,Home Goods,59.41,1,0.0,59.41,Debit Card,5.0,5,Simple checkout process and clear delivery tracking,Windows,0
+TX10294,CUST0434,2024-01-02 21:54:25,Online Web,Home Goods,50.31,1,0.05,47.79,Digital Wallet,4.0,2,Color is exactly as shown on the website,Android,1
+TX10295,CUST0208,2024-01-02 22:08:56,Online Web,Beauty,27.36,1,0.2,21.89,Credit Card,5.0,5,Item arrived on time and as described,iOS,1
+TX10296,CUST0393,2024-01-02 22:16:37,Mobile App,Electronics,107.89,1,0.0,107.89,Digital Wallet,4.0,4,Delivery was delayed by two days but support notified me,iOS,1
+TX10297,CUST0314,2024-01-02 22:20:36,Mobile App,Electronics,56.72,1,0.05,53.88,Credit Card,4.0,5,Item arrived on time and as described,Windows,1
+TX10298,CUST0417,2024-01-02 22:22:57,Online Web,Electronics,164.34,1,0.0,164.34,Digital Wallet,3.0,3,Very pleased with this purchase will recommend to friends,macOS,0
+TX10299,CUST0428,2024-01-02 22:25:21,Mobile App,Home Goods,77.74,1,0.0,77.74,Credit Card,5.0,2,Delivery was delayed by two days but support notified me,iOS,0
+TX10300,CUST0116,2024-01-02 22:37:20,Online Web,Home Goods,60.6,1,0.1,54.54,Bank Transfer,3.0,5,Fast delivery and great quality product,iOS,0
+TX10301,CUST0355,2024-01-02 22:45:26,Online Web,Electronics,120.41,3,0.0,361.23,Credit Card,4.0,2,Good value for money would purchase again,iOS,1
+TX10302,CUST0422,2024-01-02 22:52:13,Mobile App,Groceries,14.2,2,0.2,22.72,Credit Card,3.0,2,Satisfactory purchase overall meets expectations,Android,0
+TX10303,CUST0380,2024-01-02 23:00:11,Mobile App,Electronics,156.63,1,0.05,148.8,Debit Card,5.0,2,Good value for money would purchase again,iOS,1
+TX10304,CUST0249,2024-01-02 23:07:56,Mobile App,Apparel,60.37,1,0.0,60.37,Credit Card,4.0,2,Item arrived on time and as described,iOS,0
+TX10305,CUST0429,2024-01-02 23:16:39,Mobile App,Home Goods,66.83,4,0.0,267.32,Digital Wallet,2.0,3,Delivery was delayed by two days but support notified me,Android,0
+TX10306,CUST0255,2024-01-02 23:29:50,In Store,Beauty,33.16,1,0.0,33.16,Digital Wallet,3.0,3,Packaging was slightly damaged but item works fine,Android,1
+TX10307,CUST0348,2024-01-02 23:31:30,Mobile App,Home Goods,67.05,1,0.0,67.05,Debit Card,5.0,5,Color is exactly as shown on the website,iOS,0
+TX10308,CUST0226,2024-01-02 23:43:44,Online Web,Beauty,21.26,2,0.0,42.52,Bank Transfer,,1,Simple checkout process and clear delivery tracking,Android,1
+TX10309,CUST0308,2024-01-02 23:55:38,Mobile App,Apparel,41.66,1,0.0,41.66,Bank Transfer,5.0,6,Satisfactory purchase overall meets expectations,Android,1
+TX10310,CUST0253,2024-01-03 00:07:24,Online Web,Beauty,28.66,1,0.0,28.66,Credit Card,5.0,5,Item arrived on time and as described,iOS,1
+TX10311,CUST0333,2024-01-03 00:09:49,Online Web,Electronics,110.18,1,0.1,99.16,Debit Card,5.0,1,Color is exactly as shown on the website,iOS,1
+TX10312,CUST0138,2024-01-03 00:11:36,Online Web,Beauty,26.9,3,0.05,76.66,Digital Wallet,5.0,2,Very pleased with this purchase will recommend to friends,Windows,0
+TX10313,CUST0131,2024-01-03 00:19:13,Online Web,Apparel,44.26,1,0.1,39.83,Digital Wallet,3.0,4,Satisfactory purchase overall meets expectations,iOS,1
+TX10314,CUST0181,2024-01-03 00:32:23,In Store,Beauty,27.59,2,0.0,55.18,Credit Card,5.0,3,Color is exactly as shown on the website,Android,1
+TX10315,CUST0326,2024-01-03 00:38:55,Mobile App,Apparel,45.42,5,0.0,227.1,Digital Wallet,4.0,4,Delivery was delayed by two days but support notified me,macOS,1
+TX10316,CUST0313,2024-01-03 00:53:19,Mobile App,Home Goods,52.59,1,0.05,49.96,Bank Transfer,5.0,3,Very pleased with this purchase will recommend to friends,iOS,0
+TX10317,CUST0348,2024-01-03 00:55:55,Online Web,Apparel,39.19,1,0.0,39.19,Debit Card,5.0,2,Fast delivery and great quality product,iOS,0
+TX10318,CUST0338,2024-01-03 01:00:54,Online Web,Home Goods,49.97,1,0.0,49.97,Credit Card,5.0,1,Simple checkout process and clear delivery tracking,Android,0
+TX10319,CUST0205,2024-01-03 01:04:55,Online Web,Electronics,141.12,1,0.1,127.01,Credit Card,5.0,3,Item arrived on time and as described,Windows,0
+TX10320,CUST0275,2024-01-03 01:08:54,Online Web,Electronics,74.52,1,0.1,67.07,Credit Card,4.0,1,Customer service was very helpful with my inquiry,macOS,1
+TX10321,CUST0411,2024-01-03 01:18:48,Mobile App,Electronics,144.92,4,0.05,550.7,Debit Card,3.0,3,Packaging was slightly damaged but item works fine,Android,1
+TX10322,CUST0174,2024-01-03 01:27:12,Mobile App,Electronics,149.95,2,0.0,299.9,Digital Wallet,5.0,4,Customer service was very helpful with my inquiry,iOS,1
+TX10323,CUST0261,2024-01-03 01:30:20,Mobile App,Beauty,26.48,2,0.1,47.66,Digital Wallet,,3,Item arrived on time and as described,Android,1
+TX10324,CUST0264,2024-01-03 01:38:17,Online Web,Electronics,63.77,1,0.05,60.58,Credit Card,5.0,7,Satisfactory purchase overall meets expectations,Android,0
+TX10325,CUST0277,2024-01-03 01:42:09,In Store,Groceries,16.83,3,0.1,45.44,Credit Card,3.0,2,Item arrived on time and as described,Android,1
+TX10326,CUST0305,2024-01-03 01:47:39,Mobile App,Apparel,44.48,4,0.1,160.13,Digital Wallet,4.0,3,Item arrived on time and as described,iOS,0
+TX10327,CUST0167,2024-01-03 01:56:17,Mobile App,Electronics,98.17,3,0.1,265.06,Debit Card,4.0,3,Delivery was delayed by two days but support notified me,iOS,1
+TX10328,CUST0290,2024-01-03 02:01:17,Mobile App,Beauty,25.4,1,0.05,24.13,Digital Wallet,4.0,7,Good value for money would purchase again,Windows,1
+TX10329,CUST0364,2024-01-03 02:03:19,Online Web,Home Goods,82.9,2,0.0,165.8,Credit Card,3.0,3,Packaging was slightly damaged but item works fine,Android,1
+TX10330,CUST0388,2024-01-03 02:11:37,Online Web,Apparel,50.39,1,0.05,47.87,Digital Wallet,5.0,2,Fast delivery and great quality product,iOS,0
+TX10331,CUST0155,2024-01-03 02:26:09,Online Web,Home Goods,54.18,1,0.05,51.47,Credit Card,5.0,6,Fast delivery and great quality product,iOS,0
+TX10332,CUST0264,2024-01-03 02:36:17,Mobile App,Home Goods,46.31,1,0.1,41.68,Bank Transfer,2.0,3,Color is exactly as shown on the website,Windows,0
+TX10333,CUST0224,2024-01-03 02:38:42,Online Web,Electronics,112.94,2,0.0,225.88,Credit Card,4.0,1,Fast delivery and great quality product,Android,1
+TX10334,CUST0339,2024-01-03 02:40:18,Online Web,Groceries,17.31,2,0.0,34.62,Digital Wallet,4.0,3,Packaging was slightly damaged but item works fine,iOS,0
+TX10335,CUST0163,2024-01-03 02:52:10,Online Web,Groceries,19.61,1,0.15,16.67,Credit Card,4.0,5,Color is exactly as shown on the website,iOS,1
+TX10336,CUST0237,2024-01-03 03:02:08,Online Web,Home Goods,58.74,1,0.1,52.87,Digital Wallet,5.0,3,Color is exactly as shown on the website,iOS,1
+TX10337,CUST0331,2024-01-03 03:03:08,In Store,Electronics,131.05,1,0.15,111.39,Digital Wallet,4.0,2,Satisfactory purchase overall meets expectations,macOS,0
+TX10338,CUST0227,2024-01-03 03:05:28,Mobile App,Home Goods,87.64,1,0.1,78.88,Digital Wallet,4.0,4,Good value for money would purchase again,Android,1
+TX10339,CUST0173,2024-01-03 03:19:04,Mobile App,Electronics,137.61,1,0.05,130.73,Credit Card,5.0,4,Customer service was very helpful with my inquiry,Android,0
+TX10340,CUST0150,2024-01-03 03:23:51,Online Web,Electronics,118.96,1,0.05,113.01,Credit Card,4.0,3,Very pleased with this purchase will recommend to friends,Android,1
+TX10341,CUST0126,2024-01-03 03:27:26,Mobile App,Apparel,43.52,2,0.15,73.98,Credit Card,3.0,2,Satisfactory purchase overall meets expectations,iOS,1
+TX10342,CUST0249,2024-01-03 03:35:07,Mobile App,Apparel,42.11,1,0.05,40.0,Digital Wallet,5.0,2,Simple checkout process and clear delivery tracking,Windows,0
+TX10343,CUST0297,2024-01-03 03:44:09,Online Web,Beauty,33.95,1,0.05,32.25,Credit Card,5.0,3,Good value for money would purchase again,Android,1
+TX10344,CUST0416,2024-01-03 03:53:06,Online Web,Home Goods,57.66,1,0.0,57.66,Digital Wallet,5.0,4,Good value for money would purchase again,iOS,0
+TX10345,CUST0315,2024-01-03 03:57:29,Online Web,Home Goods,65.53,4,0.0,262.12,Debit Card,4.0,2,Good value for money would purchase again,iOS,1
+TX10346,CUST0228,2024-01-03 04:05:04,Mobile App,Apparel,45.41,2,0.1,81.74,Debit Card,5.0,2,Item arrived on time and as described,Android,0
+TX10347,CUST0182,2024-01-03 04:06:49,Mobile App,Apparel,40.94,2,0.0,81.88,Credit Card,4.0,1,Simple checkout process and clear delivery tracking,macOS,1
+TX10348,CUST0268,2024-01-03 04:10:22,Online Web,Apparel,33.88,1,0.0,33.88,Digital Wallet,3.0,3,Satisfactory purchase overall meets expectations,iOS,1
+TX10349,CUST0396,2024-01-03 04:17:35,Online Web,Groceries,19.05,2,0.0,38.1,Credit Card,5.0,1,Simple checkout process and clear delivery tracking,Windows,1
+TX10350,CUST0261,2024-01-03 04:18:22,Mobile App,Electronics,118.68,1,0.0,118.68,Digital Wallet,2.0,1,Customer service was very helpful with my inquiry,Windows,1
+TX10351,CUST0198,2024-01-03 04:25:46,Mobile App,Beauty,30.52,2,0.0,61.04,Debit Card,1.0,1,Delivery was delayed by two days but support notified me,iOS,0
+TX10352,CUST0182,2024-01-03 04:31:02,In Store,Home Goods,58.76,4,0.0,235.04,Credit Card,5.0,3,Simple checkout process and clear delivery tracking,iOS,1
+TX10353,CUST0356,2024-01-03 04:45:09,Mobile App,Apparel,54.89,2,0.15,93.31,Credit Card,5.0,2,Good value for money would purchase again,iOS,1
+TX10354,CUST0364,2024-01-03 04:59:17,Online Web,Home Goods,54.74,3,0.05,156.01,Debit Card,2.0,2,Customer service was very helpful with my inquiry,Android,1
+TX10355,CUST0340,2024-01-03 05:07:47,Online Web,Apparel,58.87,2,0.0,117.74,Debit Card,2.0,5,Delivery was delayed by two days but support notified me,iOS,1
+TX10356,CUST0356,2024-01-03 05:13:24,Mobile App,Beauty,19.19,1,0.0,19.19,Credit Card,5.0,2,Packaging was slightly damaged but item works fine,iOS,0
+TX10357,CUST0258,2024-01-03 05:21:22,Online Web,Groceries,19.41,4,0.05,73.76,Digital Wallet,5.0,2,Delivery was delayed by two days but support notified me,Android,0
+TX10358,CUST0355,2024-01-03 05:34:00,Mobile App,Apparel,48.85,1,0.0,48.85,Credit Card,5.0,5,Packaging was slightly damaged but item works fine,Android,1
+TX10359,CUST0112,2024-01-03 05:47:13,In Store,Apparel,38.56,1,0.1,34.7,Credit Card,1.0,2,Fast delivery and great quality product,iOS,0
+TX10360,CUST0147,2024-01-03 06:01:20,Mobile App,Home Goods,69.97,1,0.05,66.47,Debit Card,5.0,3,Delivery was delayed by two days but support notified me,Android,1
+TX10361,CUST0302,2024-01-03 06:11:34,Online Web,Groceries,22.15,1,0.1,19.93,Debit Card,4.0,1,Packaging was slightly damaged but item works fine,Android,1
+TX10362,CUST0359,2024-01-03 06:23:36,Mobile App,Electronics,72.12,1,0.0,72.12,Digital Wallet,3.0,4,Very pleased with this purchase will recommend to friends,Android,0
+TX10363,CUST0335,2024-01-03 06:36:36,Mobile App,Home Goods,70.88,1,0.05,67.34,Credit Card,5.0,2,Good value for money would purchase again,Windows,1
+TX10364,CUST0224,2024-01-03 06:45:39,Mobile App,Home Goods,35.83,1,0.0,35.83,Debit Card,4.0,4,Item arrived on time and as described,iOS,0
+TX10365,CUST0211,2024-01-03 06:49:02,In Store,Home Goods,53.7,2,0.15,91.29,Credit Card,5.0,2,Delivery was delayed by two days but support notified me,Windows,0
+TX10366,CUST0399,2024-01-03 06:53:01,Online Web,Electronics,155.19,1,0.05,147.43,Credit Card,3.0,2,Color is exactly as shown on the website,Android,1
+TX10367,CUST0281,2024-01-03 06:58:49,In Store,Home Goods,58.19,1,0.0,58.19,Digital Wallet,5.0,4,Simple checkout process and clear delivery tracking,Android,0
+TX10368,CUST0125,2024-01-03 07:03:16,In Store,Groceries,14.2,2,0.0,28.4,Credit Card,4.0,6,Packaging was slightly damaged but item works fine,Android,0
+TX10369,CUST0126,2024-01-03 07:05:00,Online Web,Electronics,115.72,1,0.0,115.72,Digital Wallet,4.0,1,Satisfactory purchase overall meets expectations,Android,1
+TX10370,CUST0245,2024-01-03 07:15:38,Online Web,Electronics,164.67,2,0.05,312.87,Digital Wallet,,4,Packaging was slightly damaged but item works fine,iOS,1
+TX10371,CUST0354,2024-01-03 07:28:56,Online Web,Groceries,12.07,2,0.0,24.14,Credit Card,5.0,2,Delivery was delayed by two days but support notified me,Android,1
+TX10372,CUST0406,2024-01-03 07:38:56,Online Web,Electronics,97.29,3,0.05,277.28,Credit Card,5.0,3,Packaging was slightly damaged but item works fine,Android,0
+TX10373,CUST0435,2024-01-03 07:40:43,Online Web,Beauty,35.55,2,0.0,71.1,Credit Card,5.0,2,Customer service was very helpful with my inquiry,Android,0
+TX10374,CUST0445,2024-01-03 07:54:13,Mobile App,Apparel,60.05,1,0.05,57.05,Credit Card,3.0,3,Satisfactory purchase overall meets expectations,iOS,1
+TX10375,CUST0341,2024-01-03 08:00:19,Online Web,Electronics,117.77,2,0.1,211.99,Digital Wallet,3.0,2,Delivery was delayed by two days but support notified me,macOS,1
+TX10376,CUST0247,2024-01-03 08:02:02,Online Web,Beauty,21.76,1,0.1,19.58,Debit Card,5.0,2,Item arrived on time and as described,Android,0
+TX10377,CUST0375,2024-01-03 08:03:38,Mobile App,Apparel,61.98,1,0.1,55.78,Credit Card,4.0,1,Customer service was very helpful with my inquiry,iOS,1
+TX10378,CUST0105,2024-01-03 08:14:21,Online Web,Apparel,57.91,2,0.0,115.82,Credit Card,4.0,1,Satisfactory purchase overall meets expectations,Android,1
+TX10379,CUST0156,2024-01-03 08:23:14,Mobile App,Apparel,50.5,1,0.0,50.5,Digital Wallet,3.0,5,Simple checkout process and clear delivery tracking,Windows,1
+TX10380,CUST0321,2024-01-03 08:32:33,Online Web,Home Goods,55.49,2,0.05,105.43,Debit Card,5.0,7,Color is exactly as shown on the website,Windows,1
+TX10381,CUST0169,2024-01-03 08:42:21,Online Web,Electronics,118.94,3,0.0,356.82,Credit Card,5.0,4,Simple checkout process and clear delivery tracking,Android,1
+TX10382,CUST0236,2024-01-03 08:45:47,Mobile App,Apparel,43.7,3,0.0,131.1,Credit Card,5.0,2,Packaging was slightly damaged but item works fine,Windows,1
+TX10383,CUST0288,2024-01-03 08:47:30,Mobile App,Groceries,19.07,4,0.0,76.28,Digital Wallet,4.0,2,Packaging was slightly damaged but item works fine,iOS,1
+TX10384,CUST0307,2024-01-03 08:56:55,In Store,Apparel,56.75,1,0.0,56.75,Credit Card,5.0,3,Fast delivery and great quality product,Android,0
+TX10385,CUST0288,2024-01-03 08:59:02,Mobile App,Home Goods,75.29,1,0.0,75.29,Credit Card,,6,Satisfactory purchase overall meets expectations,Windows,1
+TX10386,CUST0124,2024-01-03 09:02:57,Mobile App,Apparel,36.27,2,0.15,61.66,Digital Wallet,5.0,2,Packaging was slightly damaged but item works fine,Windows,1
+TX10387,CUST0306,2024-01-03 09:04:52,Online Web,Beauty,34.94,1,0.0,34.94,Digital Wallet,4.0,4,Fast delivery and great quality product,Android,1
+TX10388,CUST0127,2024-01-03 09:15:46,Online Web,Electronics,126.76,2,0.05,240.84,Digital Wallet,5.0,6,Simple checkout process and clear delivery tracking,Windows,1
+TX10389,CUST0392,2024-01-03 09:17:40,Mobile App,Groceries,20.23,2,0.0,40.46,Digital Wallet,5.0,5,Fast delivery and great quality product,iOS,1
+TX10390,CUST0388,2024-01-03 09:29:56,Mobile App,Apparel,56.88,2,0.05,108.07,Digital Wallet,,2,Simple checkout process and clear delivery tracking,Windows,1
+TX10391,CUST0200,2024-01-03 09:34:41,In Store,Electronics,95.99,1,0.0,95.99,Credit Card,5.0,1,Delivery was delayed by two days but support notified me,iOS,1
+TX10392,CUST0286,2024-01-03 09:42:19,Online Web,Electronics,119.23,1,0.15,101.35,Credit Card,4.0,2,Packaging was slightly damaged but item works fine,iOS,0
+TX10393,CUST0384,2024-01-03 09:45:06,Online Web,Electronics,108.52,1,0.15,92.24,Credit Card,5.0,3,Customer service was very helpful with my inquiry,iOS,0
+TX10394,CUST0248,2024-01-03 09:55:34,Mobile App,Apparel,32.3,1,0.0,32.3,Credit Card,5.0,2,Simple checkout process and clear delivery tracking,Android,0
+TX10395,CUST0138,2024-01-03 10:00:31,Online Web,Apparel,47.81,3,0.15,121.92,Digital Wallet,4.0,2,Color is exactly as shown on the website,iOS,0
+TX10396,CUST0298,2024-01-03 10:11:08,In Store,Beauty,40.66,1,0.2,32.53,Debit Card,5.0,4,Customer service was very helpful with my inquiry,iOS,0
+TX10397,CUST0359,2024-01-03 10:22:01,In Store,Apparel,30.1,1,0.1,27.09,Bank Transfer,5.0,2,Customer service was very helpful with my inquiry,iOS,1
+TX10398,CUST0331,2024-01-03 10:23:26,Online Web,Electronics,119.3,1,0.1,107.37,Digital Wallet,3.0,2,Simple checkout process and clear delivery tracking,iOS,0
+TX10399,CUST0382,2024-01-03 10:34:45,Mobile App,Home Goods,72.49,2,0.0,144.98,Credit Card,5.0,3,Packaging was slightly damaged but item works fine,Android,1
+TX10400,CUST0244,2024-01-03 10:36:53,Mobile App,Home Goods,66.44,2,0.05,126.24,Credit Card,,3,Good value for money would purchase again,Android,0
+TX10401,CUST0420,2024-01-03 10:44:47,Online Web,Electronics,117.56,1,0.0,117.56,Debit Card,,4,Item arrived on time and as described,iOS,0
+TX10402,CUST0449,2024-01-03 10:56:45,In Store,Electronics,91.94,1,0.0,91.94,Digital Wallet,5.0,2,Fast delivery and great quality product,Android,1
+TX10403,CUST0413,2024-01-03 11:07:27,Mobile App,Electronics,125.03,1,0.2,100.02,Digital Wallet,4.0,3,Packaging was slightly damaged but item works fine,Windows,1
+TX10404,CUST0161,2024-01-03 11:17:50,Mobile App,Home Goods,56.15,1,0.0,56.15,Digital Wallet,4.0,3,Delivery was delayed by two days but support notified me,Windows,1
+TX10405,CUST0166,2024-01-03 11:27:30,Online Web,Home Goods,39.38,2,0.1,70.88,Digital Wallet,4.0,1,Fast delivery and great quality product,iOS,0
+TX10406,CUST0150,2024-01-03 11:33:38,In Store,Apparel,54.68,2,0.1,98.42,Debit Card,5.0,4,Simple checkout process and clear delivery tracking,Android,0
+TX10407,CUST0302,2024-01-03 11:38:50,Online Web,Beauty,32.83,1,0.15,27.91,Credit Card,5.0,2,Color is exactly as shown on the website,iOS,0
+TX10408,CUST0292,2024-01-03 11:43:04,Online Web,Beauty,28.26,1,0.2,22.61,Digital Wallet,3.0,2,Good value for money would purchase again,iOS,1
+TX10409,CUST0274,2024-01-03 11:55:14,In Store,Home Goods,67.68,5,0.0,338.4,Debit Card,2.0,2,Item arrived on time and as described,iOS,0
+TX10410,CUST0386,2024-01-03 12:08:12,Online Web,Beauty,33.41,1,0.0,33.41,Credit Card,5.0,2,Packaging was slightly damaged but item works fine,Windows,1
+TX10411,CUST0288,2024-01-03 12:14:18,Online Web,Electronics,124.85,2,0.0,249.7,Digital Wallet,5.0,2,Color is exactly as shown on the website,iOS,0
+TX10412,CUST0174,2024-01-03 12:19:07,In Store,Electronics,139.53,1,0.0,139.53,Credit Card,5.0,4,Satisfactory purchase overall meets expectations,iOS,1
+TX10413,CUST0202,2024-01-03 12:24:23,In Store,Apparel,42.59,1,0.0,42.59,Bank Transfer,5.0,1,Good value for money would purchase again,iOS,1
+TX10414,CUST0409,2024-01-03 12:31:53,Mobile App,Electronics,148.34,1,0.0,148.34,Credit Card,5.0,6,Customer service was very helpful with my inquiry,Windows,1
+TX10415,CUST0361,2024-01-03 12:34:52,Mobile App,Apparel,47.6,1,0.1,42.84,Digital Wallet,5.0,3,Good value for money would purchase again,Android,0
+TX10416,CUST0306,2024-01-03 12:47:04,Online Web,Groceries,18.63,5,0.05,88.49,Credit Card,4.0,2,Very pleased with this purchase will recommend to friends,iOS,0
+TX10417,CUST0357,2024-01-03 12:58:49,Online Web,Electronics,92.57,1,0.0,92.57,Digital Wallet,4.0,1,Color is exactly as shown on the website,Android,1
+TX10418,CUST0121,2024-01-03 13:04:41,Online Web,Electronics,126.2,1,0.05,119.89,Credit Card,5.0,3,Very pleased with this purchase will recommend to friends,Android,1
+TX10419,CUST0124,2024-01-03 13:13:14,Mobile App,Apparel,38.26,1,0.0,38.26,Credit Card,5.0,3,Very pleased with this purchase will recommend to friends,Android,0
+TX10420,CUST0120,2024-01-03 13:19:22,Mobile App,Groceries,15.93,1,0.0,15.93,Digital Wallet,3.0,1,Packaging was slightly damaged but item works fine,iOS,1
+TX10421,CUST0171,2024-01-03 13:32:56,Mobile App,Apparel,38.4,1,0.1,34.56,Debit Card,5.0,2,Good value for money would purchase again,Windows,1
+TX10422,CUST0271,2024-01-03 13:34:55,Mobile App,Apparel,36.36,1,0.05,34.54,Credit Card,4.0,4,Packaging was slightly damaged but item works fine,iOS,1
+TX10423,CUST0343,2024-01-03 13:35:49,Online Web,Electronics,165.9,2,0.1,298.62,Credit Card,,1,Delivery was delayed by two days but support notified me,Android,1
+TX10424,CUST0366,2024-01-03 13:44:23,Mobile App,Electronics,148.76,1,0.0,148.76,Digital Wallet,4.0,4,Packaging was slightly damaged but item works fine,iOS,0
+TX10425,CUST0334,2024-01-03 13:55:44,Online Web,Groceries,24.22,1,0.1,21.8,Digital Wallet,5.0,3,Color is exactly as shown on the website,iOS,0
+TX10426,CUST0177,2024-01-03 14:06:05,Mobile App,Groceries,14.04,4,0.05,53.35,Debit Card,5.0,2,Item arrived on time and as described,iOS,1
+TX10427,CUST0411,2024-01-03 14:08:32,Online Web,Electronics,121.54,1,0.05,115.46,Credit Card,5.0,2,Delivery was delayed by two days but support notified me,Android,1
+TX10428,CUST0364,2024-01-03 14:10:32,In Store,Groceries,13.81,4,0.05,52.48,Digital Wallet,5.0,1,Item arrived on time and as described,iOS,0
+TX10429,CUST0172,2024-01-03 14:20:27,Online Web,Home Goods,56.86,1,0.15,48.33,Credit Card,5.0,4,Good value for money would purchase again,Windows,1
+TX10430,CUST0268,2024-01-03 14:24:50,Online Web,Beauty,23.37,3,0.05,66.6,Credit Card,4.0,1,Customer service was very helpful with my inquiry,iOS,0
+TX10431,CUST0414,2024-01-03 14:34:13,Online Web,Apparel,55.04,2,0.05,104.58,Digital Wallet,5.0,2,Satisfactory purchase overall meets expectations,Android,1
+TX10432,CUST0264,2024-01-03 14:39:29,Mobile App,Apparel,41.79,3,0.2,100.3,Digital Wallet,5.0,3,Very pleased with this purchase will recommend to friends,Windows,1
+TX10433,CUST0184,2024-01-03 14:42:29,Mobile App,Apparel,53.65,5,0.1,241.42,Digital Wallet,4.0,2,Color is exactly as shown on the website,Android,0
+TX10434,CUST0302,2024-01-03 14:49:11,Online Web,Home Goods,72.07,1,0.0,72.07,Credit Card,4.0,2,Item arrived on time and as described,Android,0
+TX10435,CUST0416,2024-01-03 14:51:06,Online Web,Electronics,169.76,5,0.1,763.92,Credit Card,1.0,4,Satisfactory purchase overall meets expectations,Android,1
+TX10436,CUST0254,2024-01-03 14:56:01,Mobile App,Electronics,88.04,1,0.0,88.04,Credit Card,4.0,2,Fast delivery and great quality product,iOS,0
+TX10437,CUST0404,2024-01-03 15:03:04,Online Web,Apparel,55.2,1,0.0,55.2,Bank Transfer,5.0,5,Packaging was slightly damaged but item works fine,Windows,1
+TX10438,CUST0273,2024-01-03 15:08:40,Mobile App,Home Goods,78.41,1,0.05,74.49,Credit Card,4.0,4,Very pleased with this purchase will recommend to friends,iOS,1
+TX10439,CUST0360,2024-01-03 15:12:06,Mobile App,Electronics,98.98,1,0.15,84.13,Credit Card,2.0,2,Item arrived on time and as described,Android,0
+TX10440,CUST0361,2024-01-03 15:20:19,Online Web,Home Goods,76.78,1,0.15,65.26,Credit Card,3.0,2,Delivery was delayed by two days but support notified me,Android,0
+TX10441,CUST0373,2024-01-03 15:35:17,Online Web,Groceries,19.09,2,0.0,38.18,Digital Wallet,5.0,2,Color is exactly as shown on the website,iOS,0
+TX10442,CUST0351,2024-01-03 15:45:18,In Store,Electronics,115.09,1,0.05,109.34,Credit Card,5.0,3,Packaging was slightly damaged but item works fine,iOS,1
+TX10443,CUST0389,2024-01-03 15:58:03,Online Web,Home Goods,55.36,2,0.0,110.72,Debit Card,5.0,2,Simple checkout process and clear delivery tracking,Android,1
+TX10444,CUST0254,2024-01-03 16:03:57,Online Web,Apparel,39.18,3,0.2,94.03,Credit Card,4.0,6,Satisfactory purchase overall meets expectations,Windows,1
+TX10445,CUST0344,2024-01-03 16:15:08,Mobile App,Beauty,38.33,1,0.2,30.66,Debit Card,4.0,3,Color is exactly as shown on the website,macOS,1
+TX10446,CUST0109,2024-01-03 16:29:39,In Store,Electronics,120.01,1,0.05,114.01,Credit Card,4.0,2,Item arrived on time and as described,Android,0
+TX10447,CUST0289,2024-01-03 16:41:33,In Store,Home Goods,74.15,1,0.1,66.74,Digital Wallet,5.0,3,Customer service was very helpful with my inquiry,Android,1
+TX10448,CUST0270,2024-01-03 16:51:19,Mobile App,Beauty,24.01,1,0.1,21.61,Debit Card,4.0,2,Delivery was delayed by two days but support notified me,macOS,0
+TX10449,CUST0445,2024-01-03 16:52:12,Online Web,Groceries,15.47,1,0.05,14.7,Credit Card,3.0,4,Fast delivery and great quality product,iOS,1
+TX10450,CUST0157,2024-01-03 17:04:20,Online Web,Home Goods,77.66,1,0.0,77.66,Bank Transfer,5.0,3,Simple checkout process and clear delivery tracking,iOS,1
+TX10451,CUST0314,2024-01-03 17:19:01,Mobile App,Apparel,34.07,1,0.0,34.07,Digital Wallet,4.0,1,Very pleased with this purchase will recommend to friends,Android,1
+TX10452,CUST0399,2024-01-03 17:29:13,Mobile App,Home Goods,60.14,5,0.05,285.66,Debit Card,5.0,2,Color is exactly as shown on the website,Windows,1
+TX10453,CUST0258,2024-01-03 17:35:04,Online Web,Beauty,28.17,2,0.05,53.52,Digital Wallet,3.0,4,Simple checkout process and clear delivery tracking,Windows,1
+TX10454,CUST0423,2024-01-03 17:47:08,In Store,Home Goods,66.3,1,0.0,66.3,Credit Card,3.0,3,Customer service was very helpful with my inquiry,Android,0
+TX10455,CUST0114,2024-01-03 17:49:39,Online Web,Electronics,116.13,2,0.15,197.42,Credit Card,4.0,6,Item arrived on time and as described,iOS,1
+TX10456,CUST0406,2024-01-03 17:52:41,Mobile App,Groceries,19.28,1,0.0,19.28,Credit Card,4.0,1,Delivery was delayed by two days but support notified me,Android,0
+TX10457,CUST0343,2024-01-03 17:57:56,Online Web,Home Goods,73.11,1,0.05,69.45,Credit Card,,2,Packaging was slightly damaged but item works fine,iOS,1
+TX10458,CUST0236,2024-01-03 18:00:39,Mobile App,Home Goods,73.6,2,0.05,139.84,Credit Card,5.0,2,Satisfactory purchase overall meets expectations,iOS,0
+TX10459,CUST0436,2024-01-03 18:03:13,Online Web,Electronics,98.71,1,0.05,93.77,Credit Card,5.0,3,Item arrived on time and as described,Windows,1
+TX10460,CUST0397,2024-01-03 18:16:38,Online Web,Home Goods,61.68,1,0.05,58.6,Credit Card,4.0,2,Good value for money would purchase again,iOS,0
+TX10461,CUST0396,2024-01-03 18:26:49,Online Web,Apparel,54.68,5,0.0,273.4,Digital Wallet,5.0,2,Fast delivery and great quality product,Windows,1
+TX10462,CUST0217,2024-01-03 18:30:13,Mobile App,Home Goods,75.47,3,0.0,226.41,Credit Card,5.0,3,Fast delivery and great quality product,Android,0
+TX10463,CUST0127,2024-01-03 18:35:36,Mobile App,Electronics,90.35,2,0.05,171.66,Credit Card,3.0,3,Packaging was slightly damaged but item works fine,Android,0
+TX10464,CUST0399,2024-01-03 18:41:09,Mobile App,Home Goods,69.11,2,0.05,131.31,Digital Wallet,4.0,2,Delivery was delayed by two days but support notified me,iOS,1
+TX10465,CUST0346,2024-01-03 18:52:13,In Store,Groceries,11.59,2,0.0,23.18,Credit Card,5.0,2,Item arrived on time and as described,iOS,1
+TX10466,CUST0188,2024-01-03 18:56:33,Online Web,Electronics,121.01,1,0.1,108.91,Credit Card,5.0,3,Item arrived on time and as described,iOS,1
+TX10467,CUST0369,2024-01-03 19:09:32,Online Web,Groceries,24.15,1,0.0,24.15,Credit Card,5.0,2,Customer service was very helpful with my inquiry,macOS,0
+TX10468,CUST0423,2024-01-03 19:16:08,In Store,Apparel,37.32,1,0.05,35.45,Debit Card,5.0,2,Very pleased with this purchase will recommend to friends,Windows,1
+TX10469,CUST0418,2024-01-03 19:20:21,Online Web,Beauty,23.8,1,0.1,21.42,Debit Card,5.0,2,Good value for money would purchase again,Android,1
+TX10470,CUST0295,2024-01-03 19:32:49,In Store,Beauty,31.85,1,0.0,31.85,Credit Card,4.0,3,Satisfactory purchase overall meets expectations,iOS,1
+TX10471,CUST0176,2024-01-03 19:44:23,Online Web,Home Goods,46.95,1,0.0,46.95,Digital Wallet,5.0,4,Delivery was delayed by two days but support notified me,macOS,1
+TX10472,CUST0449,2024-01-03 19:49:38,In Store,Home Goods,57.6,5,0.1,259.2,Digital Wallet,5.0,2,Color is exactly as shown on the website,iOS,0
+TX10473,CUST0225,2024-01-03 19:59:00,Online Web,Beauty,31.01,4,0.05,117.84,Digital Wallet,5.0,2,Very pleased with this purchase will recommend to friends,iOS,1
+TX10474,CUST0117,2024-01-03 20:08:05,In Store,Apparel,39.86,2,0.05,75.73,Digital Wallet,1.0,5,Satisfactory purchase overall meets expectations,Android,0
+TX10475,CUST0394,2024-01-03 20:13:07,Mobile App,Apparel,43.09,1,0.1,38.78,Digital Wallet,5.0,7,Simple checkout process and clear delivery tracking,macOS,0
+TX10476,CUST0157,2024-01-03 20:14:44,In Store,Home Goods,73.71,3,0.1,199.02,Credit Card,5.0,3,Good value for money would purchase again,iOS,1
+TX10477,CUST0198,2024-01-03 20:17:03,Online Web,Beauty,30.12,1,0.2,24.1,Credit Card,5.0,7,Satisfactory purchase overall meets expectations,iOS,0
+TX10478,CUST0110,2024-01-03 20:28:37,Mobile App,Beauty,29.34,2,0.05,55.75,Digital Wallet,4.0,3,Item arrived on time and as described,macOS,1
+TX10479,CUST0326,2024-01-03 20:36:35,In Store,Beauty,26.29,1,0.0,26.29,Debit Card,4.0,3,Delivery was delayed by two days but support notified me,iOS,1
+TX10480,CUST0261,2024-01-03 20:51:29,Mobile App,Apparel,48.0,2,0.0,96.0,Digital Wallet,5.0,2,Simple checkout process and clear delivery tracking,iOS,1
+TX10481,CUST0315,2024-01-03 20:56:57,Mobile App,Beauty,27.38,1,0.0,27.38,Debit Card,5.0,2,Satisfactory purchase overall meets expectations,Android,0
+TX10482,CUST0178,2024-01-03 20:58:27,Mobile App,Electronics,129.89,3,0.05,370.19,Bank Transfer,5.0,1,Packaging was slightly damaged but item works fine,Windows,1
+TX10483,CUST0312,2024-01-03 20:59:15,Mobile App,Apparel,40.97,4,0.0,163.88,Credit Card,4.0,4,Fast delivery and great quality product,Android,1
+TX10484,CUST0205,2024-01-03 21:05:41,Mobile App,Electronics,116.06,1,0.15,98.65,Digital Wallet,4.0,5,Color is exactly as shown on the website,macOS,1
+TX10485,CUST0311,2024-01-03 21:19:35,Mobile App,Apparel,36.98,1,0.05,35.13,Digital Wallet,,3,Customer service was very helpful with my inquiry,Android,1
+TX10486,CUST0357,2024-01-03 21:22:33,In Store,Apparel,44.72,5,0.05,212.42,Bank Transfer,5.0,2,Delivery was delayed by two days but support notified me,iOS,0
+TX10487,CUST0414,2024-01-03 21:34:10,Online Web,Apparel,38.43,1,0.0,38.43,Bank Transfer,5.0,2,Delivery was delayed by two days but support notified me,macOS,1
+TX10488,CUST0342,2024-01-03 21:39:23,Online Web,Home Goods,51.97,3,0.0,155.91,Digital Wallet,5.0,2,Customer service was very helpful with my inquiry,Android,0
+TX10489,CUST0132,2024-01-03 21:42:53,In Store,Apparel,47.1,2,0.0,94.2,Credit Card,4.0,2,Color is exactly as shown on the website,iOS,1
+TX10490,CUST0171,2024-01-03 21:56:17,In Store,Apparel,46.72,1,0.0,46.72,Digital Wallet,5.0,3,Item arrived on time and as described,Android,0
+TX10491,CUST0366,2024-01-03 22:04:34,Mobile App,Electronics,136.91,1,0.0,136.91,Credit Card,5.0,5,Color is exactly as shown on the website,iOS,1
+TX10492,CUST0207,2024-01-03 22:14:43,Mobile App,Apparel,41.51,1,0.05,39.43,Digital Wallet,5.0,1,Very pleased with this purchase will recommend to friends,iOS,1
+TX10493,CUST0388,2024-01-03 22:27:30,Online Web,Electronics,128.81,2,0.15,218.98,Debit Card,2.0,1,Color is exactly as shown on the website,iOS,1
+TX10494,CUST0267,2024-01-03 22:35:32,Online Web,Electronics,131.9,1,0.15,112.12,Credit Card,3.0,3,Fast delivery and great quality product,Android,0
+TX10495,CUST0440,2024-01-03 22:45:51,Mobile App,Home Goods,70.2,1,0.05,66.69,Digital Wallet,5.0,2,Satisfactory purchase overall meets expectations,Windows,1
+TX10496,CUST0345,2024-01-03 22:46:45,Online Web,Home Goods,55.34,1,0.0,55.34,Credit Card,5.0,5,Packaging was slightly damaged but item works fine,Android,0
+TX10497,CUST0370,2024-01-03 22:49:24,Mobile App,Home Goods,66.75,2,0.15,113.48,Credit Card,5.0,2,Customer service was very helpful with my inquiry,macOS,0
+TX10498,CUST0293,2024-01-03 22:51:26,Online Web,Apparel,47.95,3,0.15,122.27,Credit Card,5.0,2,Item arrived on time and as described,iOS,1
+TX10499,CUST0261,2024-01-03 23:03:58,In Store,Apparel,45.06,5,0.0,225.3,Digital Wallet,5.0,2,Delivery was delayed by two days but support notified me,iOS,1
+TX10500,CUST0189,2024-01-03 23:07:15,In Store,Beauty,17.48,1,0.1,15.73,Debit Card,4.0,1,Item arrived on time and as described,iOS,1
+TX10501,CUST0336,2024-01-03 23:17:18,Mobile App,Apparel,46.3,3,0.0,138.9,Debit Card,4.0,3,Customer service was very helpful with my inquiry,iOS,1
+TX10502,CUST0373,2024-01-03 23:18:39,Mobile App,Apparel,62.92,2,0.1,113.26,Credit Card,3.0,2,Simple checkout process and clear delivery tracking,iOS,0
+TX10503,CUST0276,2024-01-03 23:33:38,Online Web,Electronics,112.22,2,0.2,179.55,Debit Card,5.0,2,Fast delivery and great quality product,Windows,0
+TX10504,CUST0380,2024-01-03 23:40:41,Mobile App,Apparel,39.1,4,0.0,156.4,Digital Wallet,3.0,2,Fast delivery and great quality product,macOS,0
+TX10505,CUST0282,2024-01-03 23:51:22,Mobile App,Apparel,48.02,1,0.15,40.82,Credit Card,4.0,1,Color is exactly as shown on the website,macOS,1
+TX10506,CUST0447,2024-01-04 00:01:32,Online Web,Apparel,47.53,1,0.05,45.15,Credit Card,5.0,1,Customer service was very helpful with my inquiry,iOS,1
+TX10507,CUST0449,2024-01-04 00:04:48,In Store,Home Goods,78.96,3,0.2,189.5,Credit Card,,3,Good value for money would purchase again,Windows,1
+TX10508,CUST0430,2024-01-04 00:12:53,Mobile App,Apparel,34.81,1,0.0,34.81,Debit Card,,3,Simple checkout process and clear delivery tracking,iOS,0
+TX10509,CUST0236,2024-01-04 00:15:48,In Store,Home Goods,73.56,3,0.1,198.61,Digital Wallet,5.0,5,Customer service was very helpful with my inquiry,iOS,1
+TX10510,CUST0413,2024-01-04 00:17:15,Mobile App,Beauty,30.98,3,0.0,92.94,Digital Wallet,5.0,2,Item arrived on time and as described,Windows,0
+TX10511,CUST0348,2024-01-04 00:23:15,Mobile App,Beauty,27.28,1,0.0,27.28,Credit Card,4.0,1,Very pleased with this purchase will recommend to friends,Android,1
+TX10512,CUST0199,2024-01-04 00:30:13,Online Web,Home Goods,68.96,3,0.0,206.88,Digital Wallet,5.0,1,Customer service was very helpful with my inquiry,iOS,1
+TX10513,CUST0227,2024-01-04 00:44:33,In Store,Groceries,21.34,1,0.2,17.07,Credit Card,2.0,2,Simple checkout process and clear delivery tracking,Android,1
+TX10514,CUST0243,2024-01-04 00:45:58,In Store,Electronics,138.84,1,0.1,124.96,Credit Card,5.0,3,Customer service was very helpful with my inquiry,iOS,1
+TX10515,CUST0386,2024-01-04 00:52:49,Online Web,Electronics,95.31,2,0.15,162.03,Digital Wallet,1.0,4,Customer service was very helpful with my inquiry,Android,1
+TX10516,CUST0253,2024-01-04 00:57:09,Online Web,Electronics,137.72,4,0.15,468.25,Credit Card,5.0,3,Color is exactly as shown on the website,Android,0
+TX10517,CUST0216,2024-01-04 01:09:32,Online Web,Home Goods,64.24,1,0.0,64.24,Debit Card,4.0,2,Good value for money would purchase again,macOS,0
+TX10518,CUST0253,2024-01-04 01:14:32,Mobile App,Beauty,28.37,1,0.0,28.37,Credit Card,5.0,2,Simple checkout process and clear delivery tracking,iOS,1
+TX10519,CUST0248,2024-01-04 01:26:39,In Store,Electronics,121.58,2,0.0,243.16,Digital Wallet,5.0,5,Fast delivery and great quality product,iOS,1
+TX10520,CUST0207,2024-01-04 01:29:09,Online Web,Groceries,17.51,2,0.0,35.02,Credit Card,3.0,2,Packaging was slightly damaged but item works fine,Android,1
+TX10521,CUST0351,2024-01-04 01:35:56,Mobile App,Electronics,145.74,2,0.0,291.48,Digital Wallet,5.0,2,Good value for money would purchase again,Android,0
+TX10522,CUST0263,2024-01-04 01:49:59,Online Web,Groceries,17.73,1,0.0,17.73,Credit Card,4.0,6,Good value for money would purchase again,iOS,1
+TX10523,CUST0346,2024-01-04 02:00:17,In Store,Apparel,35.93,1,0.0,35.93,Credit Card,4.0,3,Very pleased with this purchase will recommend to friends,Android,0
+TX10524,CUST0279,2024-01-04 02:07:58,Mobile App,Electronics,111.5,1,0.0,111.5,Debit Card,,3,Packaging was slightly damaged but item works fine,Windows,1
+TX10525,CUST0387,2024-01-04 02:19:18,Mobile App,Apparel,46.45,3,0.0,139.35,Credit Card,5.0,2,Good value for money would purchase again,macOS,1
+TX10526,CUST0241,2024-01-04 02:32:50,Mobile App,Apparel,54.96,1,0.0,54.96,Debit Card,4.0,2,Item arrived on time and as described,Windows,0
+TX10527,CUST0248,2024-01-04 02:36:13,Online Web,Apparel,49.89,1,0.2,39.91,Bank Transfer,5.0,1,Fast delivery and great quality product,Windows,1
+TX10528,CUST0163,2024-01-04 02:41:00,Online Web,Apparel,38.11,4,0.1,137.2,Credit Card,4.0,3,Good value for money would purchase again,Android,1
+TX10529,CUST0394,2024-01-04 02:44:31,Online Web,Beauty,40.53,1,0.2,32.42,Credit Card,3.0,1,Fast delivery and great quality product,Windows,1
+TX10530,CUST0447,2024-01-04 02:58:55,In Store,Apparel,47.14,5,0.0,235.7,Digital Wallet,,4,Color is exactly as shown on the website,iOS,1
+TX10531,CUST0379,2024-01-04 03:13:30,Mobile App,Apparel,55.33,2,0.0,110.66,Bank Transfer,5.0,4,Customer service was very helpful with my inquiry,iOS,1
+TX10532,CUST0295,2024-01-04 03:17:16,In Store,Home Goods,63.22,3,0.1,170.69,Debit Card,4.0,3,Simple checkout process and clear delivery tracking,iOS,0
+TX10533,CUST0303,2024-01-04 03:25:03,In Store,Home Goods,71.24,1,0.0,71.24,Digital Wallet,5.0,1,Color is exactly as shown on the website,Android,0
+TX10534,CUST0277,2024-01-04 03:26:13,Mobile App,Apparel,51.8,1,0.0,51.8,Digital Wallet,5.0,1,Fast delivery and great quality product,iOS,1
+TX10535,CUST0175,2024-01-04 03:30:01,Mobile App,Apparel,54.87,2,0.0,109.74,Credit Card,5.0,4,Good value for money would purchase again,macOS,0
+TX10536,CUST0249,2024-01-04 03:43:20,In Store,Electronics,142.84,3,0.0,428.52,Bank Transfer,4.0,3,Packaging was slightly damaged but item works fine,iOS,1
+TX10537,CUST0122,2024-01-04 03:49:45,Mobile App,Electronics,138.84,2,0.0,277.68,Bank Transfer,5.0,3,Fast delivery and great quality product,iOS,1
+TX10538,CUST0248,2024-01-04 04:03:51,Online Web,Home Goods,61.31,1,0.0,61.31,Credit Card,5.0,2,Good value for money would purchase again,Android,1
+TX10539,CUST0141,2024-01-04 04:11:37,Mobile App,Electronics,107.65,2,0.05,204.54,Credit Card,4.0,3,Satisfactory purchase overall meets expectations,iOS,1
+TX10540,CUST0278,2024-01-04 04:26:03,Online Web,Apparel,47.69,2,0.0,95.38,Credit Card,,3,Very pleased with this purchase will recommend to friends,iOS,1
+TX10541,CUST0327,2024-01-04 04:38:13,In Store,Home Goods,75.92,2,0.0,151.84,Credit Card,5.0,2,Item arrived on time and as described,iOS,0
+TX10542,CUST0436,2024-01-04 04:51:30,Mobile App,Electronics,115.19,2,0.1,207.34,Debit Card,1.0,3,Item arrived on time and as described,Android,1
+TX10543,CUST0232,2024-01-04 05:06:05,Online Web,Home Goods,77.46,3,0.0,232.38,Credit Card,4.0,4,Delivery was delayed by two days but support notified me,Android,1
+TX10544,CUST0346,2024-01-04 05:11:04,Mobile App,Apparel,56.77,2,0.0,113.54,Credit Card,3.0,2,Delivery was delayed by two days but support notified me,Windows,1
+TX10545,CUST0210,2024-01-04 05:16:22,Mobile App,Groceries,15.03,1,0.15,12.78,Credit Card,5.0,1,Color is exactly as shown on the website,Android,0
+TX10546,CUST0204,2024-01-04 05:19:50,Online Web,Apparel,38.22,1,0.0,38.22,Bank Transfer,,3,Very pleased with this purchase will recommend to friends,Android,0
+TX10547,CUST0376,2024-01-04 05:34:01,Online Web,Beauty,27.29,1,0.0,27.29,Digital Wallet,5.0,1,Simple checkout process and clear delivery tracking,iOS,1
+TX10548,CUST0239,2024-01-04 05:46:44,Mobile App,Home Goods,68.6,1,0.0,68.6,Credit Card,5.0,4,Item arrived on time and as described,iOS,1
+TX10549,CUST0388,2024-01-04 05:49:19,Mobile App,Electronics,108.67,1,0.0,108.67,Credit Card,5.0,3,Delivery was delayed by two days but support notified me,Windows,1
+TX10550,CUST0240,2024-01-04 05:56:35,Mobile App,Home Goods,80.82,1,0.05,76.78,Bank Transfer,5.0,5,Very pleased with this purchase will recommend to friends,iOS,1
+TX10551,CUST0171,2024-01-04 05:57:59,Mobile App,Groceries,19.37,1,0.1,17.43,Debit Card,3.0,3,Customer service was very helpful with my inquiry,iOS,1
+TX10552,CUST0156,2024-01-04 06:06:45,In Store,Home Goods,65.46,1,0.0,65.46,Credit Card,5.0,1,Simple checkout process and clear delivery tracking,Windows,1
+TX10553,CUST0416,2024-01-04 06:11:17,Mobile App,Beauty,20.76,3,0.05,59.17,Credit Card,,2,Fast delivery and great quality product,Android,1
+TX10554,CUST0401,2024-01-04 06:15:26,Mobile App,Beauty,21.37,4,0.05,81.21,Credit Card,4.0,4,Very pleased with this purchase will recommend to friends,iOS,1
+TX10555,CUST0223,2024-01-04 06:30:07,In Store,Electronics,126.07,1,0.0,126.07,Credit Card,4.0,2,Packaging was slightly damaged but item works fine,iOS,1
+TX10556,CUST0225,2024-01-04 06:38:43,Online Web,Electronics,73.94,4,0.05,280.97,Digital Wallet,5.0,3,Delivery was delayed by two days but support notified me,macOS,0
+TX10557,CUST0126,2024-01-04 06:45:26,Online Web,Home Goods,76.85,1,0.0,76.85,Debit Card,4.0,4,Fast delivery and great quality product,Windows,0
+TX10558,CUST0443,2024-01-04 06:51:23,Online Web,Apparel,43.72,1,0.0,43.72,Digital Wallet,5.0,2,Fast delivery and great quality product,Android,1
+TX10559,CUST0372,2024-01-04 07:06:08,Mobile App,Beauty,44.35,1,0.0,44.35,Debit Card,5.0,2,Delivery was delayed by two days but support notified me,Android,1
+TX10560,CUST0216,2024-01-04 07:20:27,Mobile App,Groceries,25.48,1,0.0,25.48,Credit Card,1.0,3,Satisfactory purchase overall meets expectations,Android,1
+TX10561,CUST0427,2024-01-04 07:25:05,Mobile App,Apparel,43.53,2,0.0,87.06,Digital Wallet,5.0,4,Satisfactory purchase overall meets expectations,macOS,1
+TX10562,CUST0220,2024-01-04 07:29:38,Online Web,Electronics,117.7,2,0.1,211.86,Digital Wallet,5.0,2,Item arrived on time and as described,macOS,0
+TX10563,CUST0127,2024-01-04 07:30:47,Online Web,Beauty,33.02,1,0.0,33.02,Credit Card,3.0,5,Delivery was delayed by two days but support notified me,iOS,1
+TX10564,CUST0152,2024-01-04 07:42:47,Online Web,Apparel,58.8,1,0.0,58.8,Credit Card,5.0,3,Delivery was delayed by two days but support notified me,Windows,0
+TX10565,CUST0312,2024-01-04 07:46:49,Online Web,Beauty,19.74,1,0.0,19.74,Digital Wallet,4.0,7,Item arrived on time and as described,iOS,0
+TX10566,CUST0270,2024-01-04 07:54:22,Mobile App,Apparel,30.53,1,0.1,27.48,Credit Card,5.0,1,Item arrived on time and as described,iOS,1
+TX10567,CUST0342,2024-01-04 08:00:43,Online Web,Home Goods,57.72,1,0.05,54.83,Credit Card,5.0,1,Color is exactly as shown on the website,Android,1
+TX10568,CUST0152,2024-01-04 08:06:13,Online Web,Electronics,132.59,1,0.05,125.96,Digital Wallet,5.0,4,Simple checkout process and clear delivery tracking,Android,1
+TX10569,CUST0449,2024-01-04 08:08:09,In Store,Home Goods,70.81,3,0.1,191.19,Bank Transfer,5.0,4,Good value for money would purchase again,macOS,1
+TX10570,CUST0171,2024-01-04 08:22:05,Online Web,Apparel,53.67,4,0.15,182.48,Digital Wallet,5.0,2,Item arrived on time and as described,iOS,1
+TX10571,CUST0103,2024-01-04 08:27:35,Mobile App,Home Goods,50.96,1,0.0,50.96,Debit Card,4.0,3,Good value for money would purchase again,Android,1
+TX10572,CUST0382,2024-01-04 08:34:19,Mobile App,Electronics,69.97,4,0.05,265.89,Credit Card,4.0,4,Packaging was slightly damaged but item works fine,macOS,0
+TX10573,CUST0181,2024-01-04 08:46:00,Online Web,Home Goods,75.04,1,0.1,67.54,Digital Wallet,2.0,1,Simple checkout process and clear delivery tracking,macOS,1
+TX10574,CUST0309,2024-01-04 08:55:26,Mobile App,Beauty,23.83,1,0.2,19.06,Digital Wallet,5.0,3,Simple checkout process and clear delivery tracking,iOS,1
+TX10575,CUST0435,2024-01-04 09:03:00,In Store,Electronics,76.4,1,0.15,64.94,Debit Card,4.0,4,Very pleased with this purchase will recommend to friends,iOS,1
+TX10576,CUST0344,2024-01-04 09:15:20,In Store,Electronics,123.13,2,0.0,246.26,Credit Card,4.0,2,Color is exactly as shown on the website,Android,0
+TX10577,CUST0345,2024-01-04 09:25:14,Online Web,Electronics,137.13,5,0.0,685.65,Digital Wallet,2.0,2,Satisfactory purchase overall meets expectations,iOS,1
+TX10578,CUST0434,2024-01-04 09:31:38,In Store,Home Goods,63.57,2,0.0,127.14,Digital Wallet,5.0,4,Simple checkout process and clear delivery tracking,macOS,0
+TX10579,CUST0203,2024-01-04 09:32:51,Mobile App,Home Goods,59.64,1,0.1,53.68,Credit Card,4.0,2,Very pleased with this purchase will recommend to friends,macOS,1
+TX10580,CUST0248,2024-01-04 09:35:34,Online Web,Apparel,43.71,2,0.0,87.42,Credit Card,3.0,1,Packaging was slightly damaged but item works fine,iOS,1
+TX10581,CUST0265,2024-01-04 09:40:46,Mobile App,Electronics,112.0,1,0.0,112.0,Credit Card,5.0,6,Delivery was delayed by two days but support notified me,iOS,1
+TX10582,CUST0247,2024-01-04 09:44:33,In Store,Apparel,34.08,3,0.1,92.02,Credit Card,3.0,3,Very pleased with this purchase will recommend to friends,iOS,1
+TX10583,CUST0431,2024-01-04 09:55:12,Mobile App,Home Goods,56.64,1,0.0,56.64,Debit Card,5.0,4,Simple checkout process and clear delivery tracking,macOS,0
+TX10584,CUST0131,2024-01-04 10:00:28,Online Web,Apparel,49.22,1,0.15,41.84,Credit Card,4.0,4,Satisfactory purchase overall meets expectations,iOS,1
+TX10585,CUST0146,2024-01-04 10:01:52,Mobile App,Groceries,19.04,2,0.0,38.08,Credit Card,2.0,1,Item arrived on time and as described,Android,0
+TX10586,CUST0434,2024-01-04 10:04:28,Online Web,Electronics,123.63,2,0.0,247.26,Digital Wallet,4.0,2,Item arrived on time and as described,Android,1
+TX10587,CUST0394,2024-01-04 10:15:23,Online Web,Home Goods,53.36,1,0.0,53.36,Credit Card,,2,Very pleased with this purchase will recommend to friends,Android,1
+TX10588,CUST0219,2024-01-04 10:23:32,Online Web,Apparel,43.53,2,0.1,78.35,Digital Wallet,5.0,2,Customer service was very helpful with my inquiry,iOS,1
+TX10589,CUST0374,2024-01-04 10:30:10,Online Web,Apparel,27.37,1,0.0,27.37,Credit Card,2.0,3,Satisfactory purchase overall meets expectations,iOS,1
+TX10590,CUST0120,2024-01-04 10:43:21,Online Web,Home Goods,67.09,2,0.0,134.18,Bank Transfer,5.0,3,Delivery was delayed by two days but support notified me,macOS,0
+TX10591,CUST0190,2024-01-04 10:57:31,Online Web,Home Goods,81.72,3,0.2,196.13,Debit Card,,2,Customer service was very helpful with my inquiry,macOS,0
+TX10592,CUST0314,2024-01-04 11:03:37,Mobile App,Groceries,13.22,3,0.0,39.66,Debit Card,4.0,2,Satisfactory purchase overall meets expectations,Windows,1
+TX10593,CUST0191,2024-01-04 11:11:48,Online Web,Electronics,107.34,2,0.05,203.95,Credit Card,5.0,2,Color is exactly as shown on the website,iOS,1
+TX10594,CUST0119,2024-01-04 11:22:53,Online Web,Electronics,127.11,1,0.05,120.75,Digital Wallet,5.0,3,Delivery was delayed by two days but support notified me,iOS,1
+TX10595,CUST0304,2024-01-04 11:32:21,In Store,Home Goods,79.66,1,0.0,79.66,Credit Card,5.0,2,Satisfactory purchase overall meets expectations,Android,1
+TX10596,CUST0354,2024-01-04 11:35:04,Mobile App,Home Goods,59.76,2,0.05,113.54,Credit Card,5.0,1,Satisfactory purchase overall meets expectations,iOS,1
+TX10597,CUST0196,2024-01-04 11:42:23,Mobile App,Apparel,39.39,1,0.0,39.39,Credit Card,4.0,3,Item arrived on time and as described,macOS,1
+TX10598,CUST0249,2024-01-04 11:52:58,Online Web,Electronics,77.47,1,0.05,73.6,Digital Wallet,4.0,1,Color is exactly as shown on the website,Android,1
+TX10599,CUST0120,2024-01-04 11:56:57,Online Web,Electronics,122.23,1,0.0,122.23,Digital Wallet,4.0,2,Satisfactory purchase overall meets expectations,iOS,1
+TX10600,CUST0105,2024-01-04 12:02:02,Online Web,Beauty,38.29,1,0.05,36.38,Digital Wallet,3.0,3,Color is exactly as shown on the website,macOS,1
+TX10601,CUST0253,2024-01-04 12:03:32,Online Web,Electronics,125.99,2,0.0,251.98,Credit Card,3.0,1,Packaging was slightly damaged but item works fine,macOS,1
+TX10602,CUST0391,2024-01-04 12:16:22,Online Web,Apparel,44.82,1,0.05,42.58,Credit Card,4.0,3,Color is exactly as shown on the website,iOS,0
+TX10603,CUST0409,2024-01-04 12:24:33,Online Web,Electronics,126.96,2,0.0,253.92,Digital Wallet,5.0,2,Good value for money would purchase again,Android,1
+TX10604,CUST0155,2024-01-04 12:25:19,Online Web,Apparel,44.91,1,0.0,44.91,Credit Card,4.0,1,Delivery was delayed by two days but support notified me,iOS,0
+TX10605,CUST0272,2024-01-04 12:34:56,Online Web,Electronics,102.44,1,0.0,102.44,Digital Wallet,5.0,2,Item arrived on time and as described,iOS,1
+TX10606,CUST0246,2024-01-04 12:49:26,Mobile App,Apparel,51.67,1,0.0,51.67,Credit Card,4.0,5,Item arrived on time and as described,iOS,1
+TX10607,CUST0333,2024-01-04 12:59:22,Online Web,Electronics,124.88,1,0.1,112.39,Debit Card,4.0,3,Item arrived on time and as described,Android,1
+TX10608,CUST0429,2024-01-04 13:11:50,Online Web,Beauty,28.09,1,0.0,28.09,Digital Wallet,5.0,7,Item arrived on time and as described,macOS,1
+TX10609,CUST0379,2024-01-04 13:24:51,Mobile App,Electronics,98.93,2,0.15,168.18,Credit Card,2.0,3,Satisfactory purchase overall meets expectations,Android,0
+TX10610,CUST0369,2024-01-04 13:38:15,Mobile App,Apparel,55.56,1,0.2,44.45,Credit Card,5.0,3,Item arrived on time and as described,iOS,1
+TX10611,CUST0353,2024-01-04 13:51:34,Online Web,Beauty,31.35,3,0.05,89.35,Digital Wallet,4.0,2,Color is exactly as shown on the website,Android,0
+TX10612,CUST0169,2024-01-04 14:03:45,Mobile App,Home Goods,58.53,1,0.0,58.53,Debit Card,5.0,2,Good value for money would purchase again,iOS,0
+TX10613,CUST0359,2024-01-04 14:07:51,Mobile App,Apparel,53.11,1,0.0,53.11,Credit Card,2.0,2,Very pleased with this purchase will recommend to friends,Windows,1
+TX10614,CUST0340,2024-01-04 14:14:48,Online Web,Apparel,40.97,2,0.1,73.75,Credit Card,5.0,2,Fast delivery and great quality product,Android,1
+TX10615,CUST0240,2024-01-04 14:22:54,In Store,Apparel,38.67,1,0.0,38.67,Debit Card,5.0,2,Simple checkout process and clear delivery tracking,iOS,0
+TX10616,CUST0199,2024-01-04 14:24:50,In Store,Home Goods,56.11,1,0.0,56.11,Digital Wallet,5.0,2,Very pleased with this purchase will recommend to friends,iOS,1
+TX10617,CUST0158,2024-01-04 14:36:55,Online Web,Groceries,12.26,1,0.05,11.65,Credit Card,5.0,2,Very pleased with this purchase will recommend to friends,Windows,0
+TX10618,CUST0270,2024-01-04 14:43:18,Online Web,Home Goods,70.52,1,0.1,63.47,Digital Wallet,5.0,2,Color is exactly as shown on the website,iOS,1
+TX10619,CUST0184,2024-01-04 14:54:41,Mobile App,Home Goods,43.58,3,0.1,117.67,Credit Card,4.0,2,Item arrived on time and as described,Windows,1
+TX10620,CUST0335,2024-01-04 15:00:47,Mobile App,Home Goods,50.63,1,0.0,50.63,Digital Wallet,5.0,3,Satisfactory purchase overall meets expectations,iOS,1
+TX10621,CUST0432,2024-01-04 15:12:51,Online Web,Apparel,28.19,2,0.05,53.56,Credit Card,5.0,4,Color is exactly as shown on the website,iOS,1
+TX10622,CUST0232,2024-01-04 15:15:43,Online Web,Electronics,118.14,3,0.0,354.42,Bank Transfer,5.0,2,Satisfactory purchase overall meets expectations,Android,0
+TX10623,CUST0196,2024-01-04 15:28:45,Online Web,Home Goods,63.24,1,0.0,63.24,Digital Wallet,3.0,2,Fast delivery and great quality product,macOS,1
+TX10624,CUST0108,2024-01-04 15:34:37,Mobile App,Groceries,16.94,4,0.15,57.6,Digital Wallet,4.0,2,Packaging was slightly damaged but item works fine,macOS,0
+TX10625,CUST0273,2024-01-04 15:44:01,Mobile App,Electronics,97.48,1,0.0,97.48,Digital Wallet,4.0,5,Simple checkout process and clear delivery tracking,iOS,1
+TX10626,CUST0252,2024-01-04 15:50:02,Online Web,Home Goods,51.28,5,0.0,256.4,Debit Card,4.0,1,Packaging was slightly damaged but item works fine,iOS,1
+TX10627,CUST0391,2024-01-04 16:02:09,Mobile App,Electronics,130.03,1,0.0,130.03,Debit Card,5.0,3,Color is exactly as shown on the website,iOS,1
+TX10628,CUST0446,2024-01-04 16:09:52,Mobile App,Apparel,40.54,2,0.15,68.92,Digital Wallet,5.0,2,Item arrived on time and as described,Android,1
+TX10629,CUST0199,2024-01-04 16:16:11,Online Web,Electronics,126.83,1,0.1,114.15,Digital Wallet,5.0,2,Simple checkout process and clear delivery tracking,Android,1
+TX10630,CUST0190,2024-01-04 16:23:48,Online Web,Apparel,37.83,1,0.05,35.94,Digital Wallet,,2,Very pleased with this purchase will recommend to friends,macOS,1
+TX10631,CUST0413,2024-01-04 16:36:26,Mobile App,Beauty,28.91,2,0.1,52.04,Digital Wallet,1.0,2,Customer service was very helpful with my inquiry,macOS,0
+TX10632,CUST0428,2024-01-04 16:42:13,In Store,Apparel,55.56,2,0.0,111.12,Credit Card,5.0,5,Good value for money would purchase again,iOS,1
+TX10633,CUST0308,2024-01-04 16:52:25,Mobile App,Home Goods,71.86,1,0.0,71.86,Digital Wallet,5.0,2,Delivery was delayed by two days but support notified me,Android,1
+TX10634,CUST0319,2024-01-04 16:55:20,Mobile App,Beauty,25.92,1,0.0,25.92,Credit Card,5.0,3,Customer service was very helpful with my inquiry,Windows,0
+TX10635,CUST0364,2024-01-04 16:59:21,Online Web,Groceries,18.83,2,0.0,37.66,Debit Card,5.0,3,Item arrived on time and as described,Windows,0
+TX10636,CUST0268,2024-01-04 17:07:16,Online Web,Electronics,114.8,2,0.0,229.6,Credit Card,4.0,3,Color is exactly as shown on the website,iOS,1
+TX10637,CUST0145,2024-01-04 17:19:21,Mobile App,Apparel,45.06,5,0.15,191.5,Bank Transfer,5.0,2,Very pleased with this purchase will recommend to friends,iOS,1
+TX10638,CUST0306,2024-01-04 17:26:34,Online Web,Electronics,112.97,2,0.0,225.94,Digital Wallet,2.0,1,Color is exactly as shown on the website,Android,0
+TX10639,CUST0443,2024-01-04 17:38:52,Online Web,Groceries,17.47,4,0.0,69.88,Digital Wallet,5.0,2,Item arrived on time and as described,iOS,1
+TX10640,CUST0149,2024-01-04 17:52:23,Online Web,Groceries,18.69,2,0.0,37.38,Digital Wallet,2.0,2,Packaging was slightly damaged but item works fine,iOS,1
+TX10641,CUST0195,2024-01-04 17:56:06,Online Web,Apparel,36.95,1,0.0,36.95,Credit Card,4.0,3,Simple checkout process and clear delivery tracking,iOS,1
+TX10642,CUST0172,2024-01-04 18:07:21,Online Web,Beauty,22.88,1,0.15,19.45,Credit Card,4.0,1,Customer service was very helpful with my inquiry,Android,0
+TX10643,CUST0345,2024-01-04 18:17:48,Online Web,Apparel,33.75,2,0.0,67.5,Credit Card,4.0,3,Satisfactory purchase overall meets expectations,iOS,1
+TX10644,CUST0266,2024-01-04 18:23:41,Online Web,Home Goods,46.28,2,0.0,92.56,Digital Wallet,4.0,2,Very pleased with this purchase will recommend to friends,iOS,0
+TX10645,CUST0228,2024-01-04 18:31:21,Online Web,Electronics,93.71,1,0.1,84.34,Credit Card,4.0,5,Simple checkout process and clear delivery tracking,iOS,1
+TX10646,CUST0104,2024-01-04 18:41:27,In Store,Beauty,28.8,1,0.0,28.8,Digital Wallet,4.0,2,Simple checkout process and clear delivery tracking,Windows,0
+TX10647,CUST0234,2024-01-04 18:56:25,Mobile App,Electronics,100.72,4,0.0,402.88,Credit Card,4.0,2,Very pleased with this purchase will recommend to friends,Windows,1
+TX10648,CUST0297,2024-01-04 18:57:10,Mobile App,Beauty,30.59,1,0.0,30.59,Credit Card,1.0,5,Fast delivery and great quality product,Android,1
+TX10649,CUST0221,2024-01-04 19:03:06,Mobile App,Beauty,28.17,1,0.05,26.76,Credit Card,4.0,2,Simple checkout process and clear delivery tracking,Android,0
+TX10650,CUST0329,2024-01-04 19:08:44,Mobile App,Home Goods,41.97,1,0.2,33.58,Debit Card,4.0,6,Packaging was slightly damaged but item works fine,macOS,1
+TX10651,CUST0237,2024-01-04 19:13:04,Online Web,Electronics,134.15,1,0.1,120.74,Digital Wallet,3.0,1,Fast delivery and great quality product,iOS,1
+TX10652,CUST0269,2024-01-04 19:21:09,Mobile App,Apparel,51.57,1,0.0,51.57,Credit Card,5.0,2,Good value for money would purchase again,iOS,1
+TX10653,CUST0255,2024-01-04 19:35:18,Mobile App,Apparel,36.95,1,0.1,33.26,Digital Wallet,5.0,3,Packaging was slightly damaged but item works fine,iOS,1
+TX10654,CUST0399,2024-01-04 19:45:56,Mobile App,Apparel,48.4,1,0.0,48.4,Credit Card,5.0,5,Packaging was slightly damaged but item works fine,iOS,1
+TX10655,CUST0394,2024-01-04 19:57:02,Online Web,Electronics,101.5,2,0.0,203.0,Bank Transfer,4.0,2,Color is exactly as shown on the website,iOS,0
+TX10656,CUST0106,2024-01-04 20:08:57,Online Web,Groceries,18.32,1,0.0,18.32,Digital Wallet,3.0,5,Color is exactly as shown on the website,macOS,1
+TX10657,CUST0234,2024-01-04 20:15:11,Online Web,Home Goods,50.21,3,0.0,150.63,Credit Card,5.0,3,Fast delivery and great quality product,Android,1
+TX10658,CUST0435,2024-01-04 20:23:52,Online Web,Apparel,30.48,3,0.05,86.87,Digital Wallet,4.0,4,Good value for money would purchase again,Android,1
+TX10659,CUST0285,2024-01-04 20:32:09,Mobile App,Apparel,41.9,1,0.05,39.8,Credit Card,4.0,2,Good value for money would purchase again,macOS,0
+TX10660,CUST0221,2024-01-04 20:40:26,Mobile App,Apparel,44.0,2,0.15,74.8,Bank Transfer,5.0,2,Simple checkout process and clear delivery tracking,iOS,0
+TX10661,CUST0132,2024-01-04 20:52:42,Online Web,Home Goods,60.35,1,0.05,57.33,Credit Card,4.0,5,Satisfactory purchase overall meets expectations,iOS,1
+TX10662,CUST0442,2024-01-04 20:57:05,In Store,Apparel,35.41,3,0.05,100.92,Digital Wallet,3.0,5,Item arrived on time and as described,Android,1
+TX10663,CUST0161,2024-01-04 21:06:33,Mobile App,Groceries,16.7,1,0.0,16.7,Credit Card,5.0,2,Good value for money would purchase again,Android,0
+TX10664,CUST0339,2024-01-04 21:15:22,Online Web,Apparel,47.18,2,0.0,94.36,Digital Wallet,4.0,1,Fast delivery and great quality product,iOS,1
+TX10665,CUST0258,2024-01-04 21:29:39,Online Web,Groceries,17.85,2,0.05,33.92,Digital Wallet,4.0,1,Item arrived on time and as described,Android,0
+TX10666,CUST0182,2024-01-04 21:43:59,Online Web,Beauty,28.92,1,0.0,28.92,Digital Wallet,5.0,3,Very pleased with this purchase will recommend to friends,Android,0
+TX10667,CUST0308,2024-01-04 21:57:17,Online Web,Electronics,105.53,1,0.1,94.98,Digital Wallet,5.0,1,Customer service was very helpful with my inquiry,Android,0
+TX10668,CUST0358,2024-01-04 22:00:55,Online Web,Groceries,21.8,2,0.0,43.6,Debit Card,1.0,2,Satisfactory purchase overall meets expectations,Android,1
+TX10669,CUST0260,2024-01-04 22:12:54,Online Web,Electronics,94.59,2,0.0,189.18,Credit Card,5.0,2,Satisfactory purchase overall meets expectations,iOS,0
+TX10670,CUST0161,2024-01-04 22:15:05,Online Web,Beauty,30.46,1,0.0,30.46,Credit Card,5.0,3,Delivery was delayed by two days but support notified me,iOS,0
+TX10671,CUST0428,2024-01-04 22:20:40,Online Web,Apparel,54.57,2,0.0,109.14,Credit Card,5.0,1,Color is exactly as shown on the website,Android,1
+TX10672,CUST0252,2024-01-04 22:30:12,In Store,Beauty,30.42,1,0.0,30.42,Bank Transfer,4.0,2,Good value for money would purchase again,iOS,1
+TX10673,CUST0289,2024-01-04 22:42:16,Online Web,Beauty,26.98,2,0.1,48.56,Credit Card,4.0,3,Color is exactly as shown on the website,macOS,1
+TX10674,CUST0415,2024-01-04 22:53:49,Mobile App,Beauty,25.34,1,0.0,25.34,Digital Wallet,4.0,3,Packaging was slightly damaged but item works fine,Android,1
+TX10675,CUST0214,2024-01-04 23:05:08,Online Web,Beauty,33.22,3,0.05,94.68,Digital Wallet,5.0,2,Color is exactly as shown on the website,iOS,1
+TX10676,CUST0213,2024-01-04 23:11:36,In Store,Apparel,33.47,1,0.0,33.47,Credit Card,3.0,2,Simple checkout process and clear delivery tracking,Windows,1
+TX10677,CUST0169,2024-01-04 23:13:56,Online Web,Electronics,99.05,1,0.0,99.05,Credit Card,5.0,3,Simple checkout process and clear delivery tracking,Android,1
+TX10678,CUST0345,2024-01-04 23:28:39,Online Web,Apparel,41.78,1,0.0,41.78,Credit Card,5.0,4,Item arrived on time and as described,iOS,1
+TX10679,CUST0179,2024-01-04 23:42:13,In Store,Electronics,146.73,1,0.1,132.06,Credit Card,5.0,3,Fast delivery and great quality product,Windows,1
+TX10680,CUST0333,2024-01-04 23:46:58,In Store,Home Goods,69.44,1,0.0,69.44,Credit Card,5.0,5,Good value for money would purchase again,Windows,0
+TX10681,CUST0411,2024-01-04 23:59:11,Mobile App,Apparel,37.16,1,0.1,33.44,Credit Card,3.0,3,Good value for money would purchase again,Android,0
+TX10682,CUST0292,2024-01-05 00:05:13,Online Web,Groceries,16.99,3,0.0,50.97,Debit Card,2.0,4,Simple checkout process and clear delivery tracking,iOS,1
+TX10683,CUST0313,2024-01-05 00:09:48,Online Web,Home Goods,57.81,1,0.1,52.03,Bank Transfer,5.0,2,Fast delivery and great quality product,Android,1
+TX10684,CUST0382,2024-01-05 00:24:18,Mobile App,Beauty,24.42,1,0.0,24.42,Credit Card,3.0,2,Item arrived on time and as described,Windows,1
+TX10685,CUST0342,2024-01-05 00:28:26,In Store,Electronics,141.14,1,0.05,134.08,Credit Card,4.0,2,Packaging was slightly damaged but item works fine,iOS,0
+TX10686,CUST0376,2024-01-05 00:31:41,Mobile App,Beauty,21.09,1,0.05,20.04,Credit Card,2.0,2,Delivery was delayed by two days but support notified me,iOS,0
+TX10687,CUST0441,2024-01-05 00:32:51,Mobile App,Groceries,23.21,1,0.15,19.73,Digital Wallet,5.0,3,Satisfactory purchase overall meets expectations,Windows,0
+TX10688,CUST0212,2024-01-05 00:34:23,Online Web,Apparel,51.71,1,0.0,51.71,Debit Card,4.0,2,Delivery was delayed by two days but support notified me,iOS,1
+TX10689,CUST0227,2024-01-05 00:39:18,Mobile App,Home Goods,77.76,1,0.0,77.76,Credit Card,5.0,3,Simple checkout process and clear delivery tracking,Windows,0
+TX10690,CUST0449,2024-01-05 00:48:09,Online Web,Beauty,25.67,1,0.0,25.67,Credit Card,3.0,2,Delivery was delayed by two days but support notified me,Android,1
+TX10691,CUST0406,2024-01-05 00:59:19,Online Web,Electronics,116.76,1,0.1,105.08,Digital Wallet,5.0,2,Satisfactory purchase overall meets expectations,Android,1
+TX10692,CUST0142,2024-01-05 01:13:10,Online Web,Apparel,33.39,2,0.05,63.44,Digital Wallet,4.0,7,Packaging was slightly damaged but item works fine,iOS,1
+TX10693,CUST0370,2024-01-05 01:15:09,Mobile App,Apparel,40.75,1,0.1,36.68,Credit Card,5.0,2,Customer service was very helpful with my inquiry,Windows,0
+TX10694,CUST0329,2024-01-05 01:23:40,Online Web,Electronics,130.66,1,0.0,130.66,Digital Wallet,5.0,2,Very pleased with this purchase will recommend to friends,iOS,1
+TX10695,CUST0371,2024-01-05 01:31:29,Online Web,Apparel,55.5,5,0.0,277.5,Credit Card,4.0,2,Item arrived on time and as described,Android,0
+TX10696,CUST0286,2024-01-05 01:42:58,Mobile App,Electronics,96.09,1,0.0,96.09,Credit Card,3.0,5,Color is exactly as shown on the website,Android,0
+TX10697,CUST0140,2024-01-05 01:53:32,Online Web,Electronics,112.11,2,0.2,179.38,Digital Wallet,4.0,2,Satisfactory purchase overall meets expectations,Android,1
+TX10698,CUST0389,2024-01-05 01:57:36,Mobile App,Electronics,116.73,1,0.05,110.89,Debit Card,3.0,3,Item arrived on time and as described,macOS,1
+TX10699,CUST0158,2024-01-05 02:10:36,Online Web,Groceries,13.48,2,0.15,22.92,Credit Card,5.0,2,Packaging was slightly damaged but item works fine,Android,0
+TX10700,CUST0132,2024-01-05 02:23:14,Mobile App,Apparel,49.79,2,0.0,99.58,Debit Card,,3,Simple checkout process and clear delivery tracking,iOS,1
+TX10701,CUST0381,2024-01-05 02:30:32,Mobile App,Groceries,15.65,1,0.05,14.87,Credit Card,5.0,2,Delivery was delayed by two days but support notified me,macOS,1
+TX10702,CUST0359,2024-01-05 02:39:43,Online Web,Apparel,43.42,5,0.05,206.24,Digital Wallet,5.0,3,Very pleased with this purchase will recommend to friends,Android,1
+TX10703,CUST0204,2024-01-05 02:47:17,Online Web,Apparel,41.34,1,0.0,41.34,Digital Wallet,4.0,4,Packaging was slightly damaged but item works fine,iOS,1
+TX10704,CUST0394,2024-01-05 02:52:11,Online Web,Apparel,38.61,1,0.1,34.75,Debit Card,4.0,3,Fast delivery and great quality product,iOS,1
+TX10705,CUST0375,2024-01-05 02:55:27,Online Web,Apparel,44.94,2,0.15,76.4,Debit Card,4.0,3,Customer service was very helpful with my inquiry,Windows,1
+TX10706,CUST0177,2024-01-05 03:07:23,In Store,Electronics,115.34,3,0.15,294.12,Credit Card,4.0,3,Satisfactory purchase overall meets expectations,iOS,1
+TX10707,CUST0185,2024-01-05 03:19:52,Online Web,Home Goods,60.65,1,0.1,54.58,Debit Card,4.0,3,Simple checkout process and clear delivery tracking,Android,1
+TX10708,CUST0268,2024-01-05 03:20:42,Mobile App,Electronics,104.27,1,0.0,104.27,Debit Card,5.0,2,Fast delivery and great quality product,Android,0
+TX10709,CUST0367,2024-01-05 03:34:15,Online Web,Home Goods,68.74,1,0.0,68.74,Digital Wallet,5.0,3,Fast delivery and great quality product,iOS,0
+TX10710,CUST0327,2024-01-05 03:48:08,Mobile App,Home Goods,84.35,1,0.2,67.48,Credit Card,4.0,2,Customer service was very helpful with my inquiry,Android,0
+TX10711,CUST0160,2024-01-05 03:50:42,Mobile App,Electronics,123.02,2,0.0,246.04,Debit Card,5.0,1,Packaging was slightly damaged but item works fine,iOS,1
+TX10712,CUST0449,2024-01-05 04:04:44,Mobile App,Electronics,141.52,1,0.1,127.37,Debit Card,5.0,2,Customer service was very helpful with my inquiry,Android,0
+TX10713,CUST0206,2024-01-05 04:12:44,Mobile App,Beauty,20.99,1,0.1,18.89,Credit Card,5.0,2,Good value for money would purchase again,Android,1
+TX10714,CUST0399,2024-01-05 04:17:13,Online Web,Apparel,46.28,1,0.05,43.97,Bank Transfer,4.0,2,Packaging was slightly damaged but item works fine,Android,1
+TX10715,CUST0351,2024-01-05 04:20:58,Online Web,Electronics,96.3,1,0.2,77.04,Credit Card,,3,Packaging was slightly damaged but item works fine,Android,0
+TX10716,CUST0147,2024-01-05 04:35:26,In Store,Groceries,13.21,1,0.0,13.21,Credit Card,4.0,1,Color is exactly as shown on the website,Windows,0
+TX10717,CUST0362,2024-01-05 04:48:03,Mobile App,Electronics,104.03,2,0.0,208.06,Digital Wallet,,2,Item arrived on time and as described,Windows,0
+TX10718,CUST0329,2024-01-05 04:57:38,In Store,Home Goods,78.95,5,0.0,394.75,Digital Wallet,5.0,3,Fast delivery and great quality product,iOS,0
+TX10719,CUST0129,2024-01-05 05:06:18,Online Web,Groceries,21.08,3,0.0,63.24,Digital Wallet,4.0,2,Delivery was delayed by two days but support notified me,iOS,1
+TX10720,CUST0333,2024-01-05 05:07:54,Mobile App,Electronics,125.25,1,0.0,125.25,Credit Card,4.0,3,Satisfactory purchase overall meets expectations,Android,1
+TX10721,CUST0168,2024-01-05 05:18:09,In Store,Electronics,86.89,3,0.0,260.67,Bank Transfer,4.0,3,Good value for money would purchase again,macOS,0
+TX10722,CUST0363,2024-01-05 05:23:09,Online Web,Electronics,115.76,2,0.1,208.37,Credit Card,4.0,6,Good value for money would purchase again,Windows,1
+TX10723,CUST0313,2024-01-05 05:25:58,Online Web,Apparel,47.44,2,0.15,80.65,Credit Card,5.0,3,Satisfactory purchase overall meets expectations,Windows,1
+TX10724,CUST0334,2024-01-05 05:34:30,Mobile App,Electronics,123.79,1,0.0,123.79,Credit Card,4.0,1,Very pleased with this purchase will recommend to friends,iOS,0
+TX10725,CUST0389,2024-01-05 05:37:31,Mobile App,Home Goods,43.43,1,0.0,43.43,Digital Wallet,5.0,2,Customer service was very helpful with my inquiry,Android,0
+TX10726,CUST0130,2024-01-05 05:51:56,Mobile App,Electronics,100.77,1,0.15,85.65,Debit Card,2.0,1,Very pleased with this purchase will recommend to friends,Android,1
+TX10727,CUST0387,2024-01-05 06:00:36,Online Web,Apparel,44.48,1,0.0,44.48,Digital Wallet,,5,Very pleased with this purchase will recommend to friends,iOS,0
+TX10728,CUST0337,2024-01-05 06:12:44,Mobile App,Groceries,19.74,1,0.0,19.74,Debit Card,4.0,1,Color is exactly as shown on the website,iOS,0
+TX10729,CUST0445,2024-01-05 06:22:32,Online Web,Beauty,16.93,1,0.0,16.93,Credit Card,5.0,2,Item arrived on time and as described,macOS,0
+TX10730,CUST0258,2024-01-05 06:32:49,Online Web,Home Goods,63.1,1,0.05,59.94,Digital Wallet,5.0,2,Satisfactory purchase overall meets expectations,iOS,1
+TX10731,CUST0112,2024-01-05 06:43:43,Online Web,Apparel,46.16,2,0.0,92.32,Digital Wallet,5.0,4,Fast delivery and great quality product,iOS,1
+TX10732,CUST0303,2024-01-05 06:49:52,Mobile App,Home Goods,74.94,1,0.2,59.95,Digital Wallet,5.0,2,Satisfactory purchase overall meets expectations,iOS,1
+TX10733,CUST0231,2024-01-05 07:03:30,Mobile App,Apparel,50.61,1,0.0,50.61,Credit Card,5.0,7,Fast delivery and great quality product,macOS,1
+TX10734,CUST0102,2024-01-05 07:11:48,Mobile App,Apparel,49.72,4,0.05,188.94,Digital Wallet,4.0,1,Delivery was delayed by two days but support notified me,Android,1
+TX10735,CUST0212,2024-01-05 07:23:00,Online Web,Electronics,102.72,4,0.0,410.88,Digital Wallet,5.0,1,Item arrived on time and as described,Android,1
+TX10736,CUST0397,2024-01-05 07:37:39,In Store,Beauty,18.38,2,0.0,36.76,Digital Wallet,1.0,2,Color is exactly as shown on the website,macOS,1
+TX10737,CUST0138,2024-01-05 07:50:40,Online Web,Apparel,41.82,5,0.05,198.64,Digital Wallet,5.0,4,Simple checkout process and clear delivery tracking,iOS,0
+TX10738,CUST0124,2024-01-05 08:00:01,Mobile App,Electronics,141.64,1,0.1,127.48,Credit Card,2.0,5,Satisfactory purchase overall meets expectations,Android,1
+TX10739,CUST0317,2024-01-05 08:08:02,Online Web,Apparel,56.29,5,0.1,253.3,Digital Wallet,2.0,1,Simple checkout process and clear delivery tracking,iOS,0
+TX10740,CUST0277,2024-01-05 08:22:57,Online Web,Apparel,50.76,1,0.05,48.22,Credit Card,4.0,1,Satisfactory purchase overall meets expectations,iOS,0
+TX10741,CUST0133,2024-01-05 08:33:03,Mobile App,Beauty,30.16,1,0.15,25.64,Debit Card,4.0,3,Satisfactory purchase overall meets expectations,Windows,1
+TX10742,CUST0378,2024-01-05 08:41:24,Online Web,Home Goods,69.44,1,0.1,62.5,Digital Wallet,5.0,1,Packaging was slightly damaged but item works fine,Windows,0
+TX10743,CUST0131,2024-01-05 08:44:51,Mobile App,Beauty,25.2,1,0.1,22.68,Credit Card,4.0,1,Item arrived on time and as described,iOS,1
+TX10744,CUST0136,2024-01-05 08:58:17,Mobile App,Electronics,117.19,1,0.0,117.19,Bank Transfer,5.0,1,Satisfactory purchase overall meets expectations,iOS,1
+TX10745,CUST0342,2024-01-05 09:07:08,Online Web,Apparel,58.52,2,0.0,117.04,Digital Wallet,5.0,1,Fast delivery and great quality product,Android,0
+TX10746,CUST0117,2024-01-05 09:15:33,In Store,Apparel,37.37,2,0.0,74.74,Credit Card,4.0,2,Color is exactly as shown on the website,iOS,1
+TX10747,CUST0247,2024-01-05 09:20:43,Online Web,Electronics,154.88,2,0.05,294.27,Digital Wallet,5.0,1,Good value for money would purchase again,iOS,0
+TX10748,CUST0310,2024-01-05 09:34:17,Mobile App,Apparel,42.39,1,0.0,42.39,Credit Card,4.0,2,Simple checkout process and clear delivery tracking,iOS,1
+TX10749,CUST0193,2024-01-05 09:39:15,In Store,Beauty,34.68,3,0.0,104.04,Debit Card,5.0,4,Delivery was delayed by two days but support notified me,iOS,0
+TX10750,CUST0170,2024-01-05 09:50:52,Mobile App,Electronics,89.61,2,0.15,152.34,Debit Card,5.0,2,Color is exactly as shown on the website,Windows,1
+TX10751,CUST0429,2024-01-05 09:56:20,Online Web,Apparel,49.75,1,0.15,42.29,Bank Transfer,5.0,3,Item arrived on time and as described,iOS,0
+TX10752,CUST0431,2024-01-05 10:10:09,In Store,Electronics,104.09,2,0.15,176.95,Digital Wallet,5.0,1,Satisfactory purchase overall meets expectations,iOS,1
+TX10753,CUST0316,2024-01-05 10:24:10,Mobile App,Electronics,89.43,1,0.0,89.43,Digital Wallet,5.0,3,Item arrived on time and as described,Android,0
+TX10754,CUST0292,2024-01-05 10:33:48,Online Web,Electronics,124.72,1,0.05,118.48,Digital Wallet,5.0,2,Customer service was very helpful with my inquiry,Windows,0
+TX10755,CUST0296,2024-01-05 10:42:49,Online Web,Groceries,21.27,4,0.0,85.08,Credit Card,5.0,3,Satisfactory purchase overall meets expectations,iOS,1
+TX10756,CUST0330,2024-01-05 10:54:15,Mobile App,Beauty,23.74,1,0.0,23.74,Digital Wallet,3.0,1,Simple checkout process and clear delivery tracking,iOS,1
+TX10757,CUST0294,2024-01-05 10:59:04,Mobile App,Groceries,13.14,1,0.0,13.14,Digital Wallet,5.0,5,Satisfactory purchase overall meets expectations,iOS,1
+TX10758,CUST0293,2024-01-05 11:04:30,Mobile App,Apparel,44.26,3,0.0,132.78,Credit Card,4.0,2,Very pleased with this purchase will recommend to friends,Android,0
+TX10759,CUST0142,2024-01-05 11:12:45,In Store,Electronics,118.11,2,0.0,236.22,Credit Card,5.0,2,Item arrived on time and as described,Android,1
+TX10760,CUST0450,2024-01-05 11:14:49,Mobile App,Apparel,49.44,1,0.1,44.5,Debit Card,3.0,6,Satisfactory purchase overall meets expectations,Windows,0
+TX10761,CUST0439,2024-01-05 11:27:44,Online Web,Apparel,52.69,1,0.0,52.69,Debit Card,,3,Packaging was slightly damaged but item works fine,macOS,0
+TX10762,CUST0377,2024-01-05 11:33:21,Online Web,Beauty,27.7,1,0.1,24.93,Credit Card,5.0,2,Color is exactly as shown on the website,Windows,1
+TX10763,CUST0169,2024-01-05 11:38:06,Online Web,Electronics,160.08,2,0.05,304.15,Credit Card,4.0,5,Customer service was very helpful with my inquiry,Android,1
+TX10764,CUST0435,2024-01-05 11:43:29,Mobile App,Apparel,46.82,1,0.0,46.82,Credit Card,5.0,2,Color is exactly as shown on the website,Android,1
+TX10765,CUST0279,2024-01-05 11:49:57,Online Web,Electronics,112.52,1,0.0,112.52,Debit Card,4.0,1,Good value for money would purchase again,iOS,0
+TX10766,CUST0161,2024-01-05 11:56:09,Mobile App,Apparel,31.95,4,0.0,127.8,Credit Card,5.0,7,Item arrived on time and as described,macOS,1
+TX10767,CUST0192,2024-01-05 12:06:07,Mobile App,Home Goods,61.93,1,0.05,58.83,Digital Wallet,1.0,2,Very pleased with this purchase will recommend to friends,iOS,1
+TX10768,CUST0376,2024-01-05 12:08:14,In Store,Apparel,42.28,1,0.0,42.28,Credit Card,5.0,4,Item arrived on time and as described,iOS,0
+TX10769,CUST0302,2024-01-05 12:11:20,Online Web,Apparel,52.78,1,0.0,52.78,Digital Wallet,5.0,2,Very pleased with this purchase will recommend to friends,Android,1
+TX10770,CUST0371,2024-01-05 12:14:39,Mobile App,Apparel,48.75,2,0.0,97.5,Credit Card,4.0,3,Very pleased with this purchase will recommend to friends,iOS,0
+TX10771,CUST0166,2024-01-05 12:19:20,Online Web,Apparel,35.45,1,0.05,33.68,Digital Wallet,5.0,3,Customer service was very helpful with my inquiry,Android,1
+TX10772,CUST0215,2024-01-05 12:26:37,Mobile App,Beauty,28.87,1,0.15,24.54,Credit Card,3.0,7,Color is exactly as shown on the website,Android,1
+TX10773,CUST0102,2024-01-05 12:39:12,Online Web,Beauty,31.38,3,0.0,94.14,Digital Wallet,5.0,3,Color is exactly as shown on the website,Android,0
+TX10774,CUST0112,2024-01-05 12:42:33,Online Web,Groceries,22.95,1,0.1,20.66,Credit Card,4.0,1,Good value for money would purchase again,Windows,1
+TX10775,CUST0253,2024-01-05 12:55:21,Mobile App,Beauty,32.47,1,0.05,30.85,Digital Wallet,5.0,3,Customer service was very helpful with my inquiry,iOS,1
+TX10776,CUST0338,2024-01-05 12:59:45,Online Web,Apparel,51.16,1,0.15,43.49,Debit Card,3.0,1,Item arrived on time and as described,Android,0
+TX10777,CUST0445,2024-01-05 13:01:35,Online Web,Home Goods,65.7,1,0.1,59.13,Credit Card,4.0,4,Good value for money would purchase again,Android,1
+TX10778,CUST0379,2024-01-05 13:09:24,Mobile App,Apparel,48.15,1,0.05,45.74,Debit Card,5.0,4,Packaging was slightly damaged but item works fine,Android,0
+TX10779,CUST0318,2024-01-05 13:17:06,Mobile App,Apparel,55.12,1,0.05,52.36,Digital Wallet,5.0,2,Customer service was very helpful with my inquiry,Windows,0
+TX10780,CUST0373,2024-01-05 13:23:29,Mobile App,Beauty,21.28,1,0.15,18.09,Credit Card,5.0,4,Good value for money would purchase again,iOS,1
+TX10781,CUST0295,2024-01-05 13:33:29,Mobile App,Electronics,112.45,1,0.0,112.45,Credit Card,1.0,1,Simple checkout process and clear delivery tracking,Android,1
+TX10782,CUST0218,2024-01-05 13:42:11,Mobile App,Groceries,15.5,3,0.0,46.5,Credit Card,,2,Good value for money would purchase again,iOS,0
+TX10783,CUST0227,2024-01-05 13:50:01,Online Web,Apparel,48.07,5,0.0,240.35,Digital Wallet,5.0,2,Item arrived on time and as described,macOS,1
+TX10784,CUST0336,2024-01-05 13:51:49,Online Web,Home Goods,79.39,2,0.1,142.9,Digital Wallet,5.0,3,Good value for money would purchase again,iOS,1
+TX10785,CUST0278,2024-01-05 13:56:05,Online Web,Home Goods,58.02,3,0.1,156.65,Credit Card,5.0,1,Delivery was delayed by two days but support notified me,Android,0
+TX10786,CUST0180,2024-01-05 14:11:02,In Store,Beauty,15.95,1,0.0,15.95,Digital Wallet,,4,Delivery was delayed by two days but support notified me,iOS,1
+TX10787,CUST0242,2024-01-05 14:18:57,Mobile App,Home Goods,60.18,5,0.05,285.85,Debit Card,2.0,1,Simple checkout process and clear delivery tracking,iOS,0
+TX10788,CUST0197,2024-01-05 14:26:20,Online Web,Home Goods,75.69,1,0.0,75.69,Debit Card,4.0,3,Simple checkout process and clear delivery tracking,Android,1
+TX10789,CUST0158,2024-01-05 14:40:13,Mobile App,Electronics,131.61,4,0.0,526.44,Digital Wallet,3.0,1,Delivery was delayed by two days but support notified me,Windows,1
+TX10790,CUST0117,2024-01-05 14:50:56,In Store,Apparel,48.47,5,0.2,193.88,Bank Transfer,,4,Simple checkout process and clear delivery tracking,Android,1
+TX10791,CUST0439,2024-01-05 15:03:33,Online Web,Electronics,113.95,2,0.0,227.9,Digital Wallet,5.0,2,Simple checkout process and clear delivery tracking,macOS,0
+TX10792,CUST0315,2024-01-05 15:04:38,Mobile App,Home Goods,50.04,5,0.0,250.2,Credit Card,5.0,3,Color is exactly as shown on the website,Android,0
+TX10793,CUST0415,2024-01-05 15:18:26,Mobile App,Apparel,49.17,2,0.05,93.42,Debit Card,4.0,2,Color is exactly as shown on the website,Android,0
+TX10794,CUST0109,2024-01-05 15:29:00,Mobile App,Home Goods,55.24,1,0.1,49.72,Digital Wallet,2.0,3,Good value for money would purchase again,iOS,1
+TX10795,CUST0224,2024-01-05 15:36:14,Online Web,Electronics,167.18,1,0.0,167.18,Digital Wallet,3.0,2,Delivery was delayed by two days but support notified me,Windows,1
+TX10796,CUST0206,2024-01-05 15:45:07,In Store,Electronics,132.32,2,0.05,251.41,Digital Wallet,5.0,3,Item arrived on time and as described,iOS,1
+TX10797,CUST0135,2024-01-05 15:45:58,In Store,Home Goods,58.21,1,0.05,55.3,Debit Card,5.0,2,Delivery was delayed by two days but support notified me,Windows,1
+TX10798,CUST0152,2024-01-05 15:52:43,Mobile App,Electronics,106.79,2,0.0,213.58,Debit Card,,4,Delivery was delayed by two days but support notified me,macOS,1
+TX10799,CUST0405,2024-01-05 15:58:33,Mobile App,Electronics,117.99,5,0.0,589.95,Credit Card,2.0,1,Packaging was slightly damaged but item works fine,macOS,0
+TX10800,CUST0118,2024-01-05 16:12:09,In Store,Electronics,114.83,1,0.05,109.09,Credit Card,,2,Packaging was slightly damaged but item works fine,Android,1
+TX10801,CUST0329,2024-01-05 16:19:33,Mobile App,Groceries,21.62,2,0.0,43.24,Digital Wallet,4.0,2,Simple checkout process and clear delivery tracking,Android,0
+TX10802,CUST0407,2024-01-05 16:34:33,Online Web,Home Goods,67.18,4,0.15,228.41,Digital Wallet,5.0,1,Fast delivery and great quality product,Windows,1
+TX10803,CUST0445,2024-01-05 16:42:27,Mobile App,Apparel,39.07,4,0.1,140.65,Credit Card,4.0,2,Color is exactly as shown on the website,iOS,0
+TX10804,CUST0125,2024-01-05 16:52:23,Mobile App,Apparel,60.31,5,0.2,241.24,Digital Wallet,5.0,5,Very pleased with this purchase will recommend to friends,Android,1
+TX10805,CUST0226,2024-01-05 17:05:53,Online Web,Apparel,45.4,1,0.0,45.4,Digital Wallet,5.0,6,Item arrived on time and as described,iOS,1
+TX10806,CUST0123,2024-01-05 17:19:10,Mobile App,Beauty,31.87,5,0.2,127.48,Credit Card,4.0,3,Packaging was slightly damaged but item works fine,Android,1
+TX10807,CUST0306,2024-01-05 17:29:14,In Store,Home Goods,57.88,2,0.0,115.76,Credit Card,5.0,2,Delivery was delayed by two days but support notified me,iOS,1
+TX10808,CUST0325,2024-01-05 17:43:38,In Store,Electronics,127.84,1,0.0,127.84,Credit Card,5.0,2,Delivery was delayed by two days but support notified me,iOS,1
+TX10809,CUST0220,2024-01-05 17:54:40,Mobile App,Electronics,126.72,1,0.0,126.72,Debit Card,,3,Fast delivery and great quality product,iOS,1
+TX10810,CUST0377,2024-01-05 17:59:10,Online Web,Electronics,79.18,2,0.0,158.36,Credit Card,4.0,1,Fast delivery and great quality product,Android,1
+TX10811,CUST0212,2024-01-05 18:08:14,In Store,Home Goods,88.58,1,0.05,84.15,Credit Card,5.0,5,Color is exactly as shown on the website,Android,0
+TX10812,CUST0129,2024-01-05 18:12:43,Mobile App,Beauty,34.5,2,0.0,69.0,Digital Wallet,4.0,2,Packaging was slightly damaged but item works fine,iOS,0
+TX10813,CUST0172,2024-01-05 18:18:07,Online Web,Apparel,41.78,2,0.0,83.56,Credit Card,5.0,7,Item arrived on time and as described,Android,0
+TX10814,CUST0358,2024-01-05 18:26:18,In Store,Electronics,96.19,1,0.05,91.38,Credit Card,4.0,2,Item arrived on time and as described,iOS,1
+TX10815,CUST0249,2024-01-05 18:35:20,In Store,Electronics,127.51,2,0.0,255.02,Credit Card,4.0,4,Simple checkout process and clear delivery tracking,Android,1
+TX10816,CUST0220,2024-01-05 18:36:34,Mobile App,Groceries,18.28,2,0.05,34.73,Digital Wallet,4.0,1,Simple checkout process and clear delivery tracking,Android,1
+TX10817,CUST0395,2024-01-05 18:43:57,Mobile App,Apparel,47.88,1,0.0,47.88,Digital Wallet,4.0,5,Very pleased with this purchase will recommend to friends,Android,1
+TX10818,CUST0264,2024-01-05 18:50:26,Online Web,Beauty,28.97,1,0.1,26.07,Credit Card,5.0,2,Satisfactory purchase overall meets expectations,Android,1
+TX10819,CUST0396,2024-01-05 19:02:35,Online Web,Home Goods,70.92,1,0.1,63.83,Credit Card,5.0,3,Delivery was delayed by two days but support notified me,iOS,1
+TX10820,CUST0407,2024-01-05 19:14:55,Online Web,Apparel,56.72,1,0.0,56.72,Bank Transfer,5.0,4,Simple checkout process and clear delivery tracking,Windows,1
+TX10821,CUST0445,2024-01-05 19:29:17,Mobile App,Electronics,132.27,4,0.0,529.08,Credit Card,5.0,2,Very pleased with this purchase will recommend to friends,Android,1
+TX10822,CUST0265,2024-01-05 19:36:56,Online Web,Electronics,97.33,1,0.0,97.33,Credit Card,4.0,2,Fast delivery and great quality product,Android,1
+TX10823,CUST0222,2024-01-05 19:50:02,Online Web,Home Goods,80.94,2,0.1,145.69,Credit Card,5.0,2,Delivery was delayed by two days but support notified me,Android,0
+TX10824,CUST0255,2024-01-05 19:53:36,Online Web,Beauty,36.27,1,0.0,36.27,Digital Wallet,5.0,2,Simple checkout process and clear delivery tracking,iOS,0
+TX10825,CUST0174,2024-01-05 20:02:19,Mobile App,Home Goods,101.88,1,0.0,101.88,Digital Wallet,5.0,2,Customer service was very helpful with my inquiry,Android,0
+TX10826,CUST0439,2024-01-05 20:05:14,In Store,Apparel,35.9,3,0.0,107.7,Credit Card,1.0,2,Color is exactly as shown on the website,Android,0
+TX10827,CUST0367,2024-01-05 20:16:36,Online Web,Electronics,125.25,2,0.0,250.5,Digital Wallet,,2,Simple checkout process and clear delivery tracking,iOS,1
+TX10828,CUST0214,2024-01-05 20:26:27,Online Web,Groceries,11.25,1,0.0,11.25,Credit Card,4.0,3,Delivery was delayed by two days but support notified me,iOS,0
+TX10829,CUST0312,2024-01-05 20:27:39,Mobile App,Beauty,30.79,1,0.1,27.71,Credit Card,5.0,3,Very pleased with this purchase will recommend to friends,iOS,0
+TX10830,CUST0254,2024-01-05 20:35:07,Mobile App,Apparel,40.56,1,0.0,40.56,Digital Wallet,5.0,2,Good value for money would purchase again,macOS,1
+TX10831,CUST0241,2024-01-05 20:45:58,Online Web,Groceries,24.23,1,0.0,24.23,Credit Card,5.0,5,Fast delivery and great quality product,Android,1
+TX10832,CUST0132,2024-01-05 20:56:20,Mobile App,Home Goods,55.94,2,0.1,100.69,Digital Wallet,4.0,4,Delivery was delayed by two days but support notified me,iOS,0
+TX10833,CUST0386,2024-01-05 21:08:23,Online Web,Home Goods,45.24,1,0.1,40.72,Credit Card,4.0,3,Item arrived on time and as described,iOS,1
+TX10834,CUST0403,2024-01-05 21:09:35,Online Web,Home Goods,59.49,1,0.0,59.49,Digital Wallet,3.0,2,Color is exactly as shown on the website,Android,0
+TX10835,CUST0190,2024-01-05 21:11:45,Mobile App,Beauty,18.04,1,0.0,18.04,Credit Card,5.0,2,Item arrived on time and as described,Windows,1
+TX10836,CUST0421,2024-01-05 21:23:28,Online Web,Home Goods,73.79,4,0.0,295.16,Debit Card,5.0,3,Very pleased with this purchase will recommend to friends,iOS,1
+TX10837,CUST0448,2024-01-05 21:31:31,In Store,Electronics,75.39,5,0.15,320.41,Credit Card,2.0,3,Good value for money would purchase again,iOS,1
+TX10838,CUST0319,2024-01-05 21:34:34,Online Web,Apparel,45.23,1,0.0,45.23,Debit Card,5.0,2,Fast delivery and great quality product,Windows,1
+TX10839,CUST0385,2024-01-05 21:43:11,Mobile App,Groceries,11.27,2,0.15,19.16,Credit Card,4.0,3,Customer service was very helpful with my inquiry,iOS,0
+TX10840,CUST0354,2024-01-05 21:47:02,Mobile App,Electronics,113.08,1,0.05,107.43,Digital Wallet,4.0,2,Delivery was delayed by two days but support notified me,iOS,0
+TX10841,CUST0125,2024-01-05 21:48:38,Online Web,Apparel,58.31,1,0.05,55.39,Credit Card,5.0,1,Delivery was delayed by two days but support notified me,macOS,1
+TX10842,CUST0277,2024-01-05 21:53:49,Mobile App,Apparel,47.92,2,0.0,95.84,Debit Card,4.0,3,Very pleased with this purchase will recommend to friends,Android,1
+TX10843,CUST0430,2024-01-05 22:01:02,Online Web,Apparel,38.01,4,0.0,152.04,Credit Card,5.0,3,Very pleased with this purchase will recommend to friends,iOS,0
+TX10844,CUST0444,2024-01-05 22:07:22,In Store,Home Goods,64.63,4,0.0,258.52,Credit Card,5.0,2,Simple checkout process and clear delivery tracking,iOS,1
+TX10845,CUST0296,2024-01-05 22:11:43,Online Web,Groceries,18.06,2,0.0,36.12,Digital Wallet,5.0,3,Good value for money would purchase again,iOS,1
+TX10846,CUST0369,2024-01-05 22:20:13,Online Web,Electronics,130.21,1,0.05,123.7,Credit Card,3.0,5,Color is exactly as shown on the website,iOS,1
+TX10847,CUST0264,2024-01-05 22:26:32,Online Web,Electronics,90.48,2,0.2,144.77,Credit Card,5.0,3,Color is exactly as shown on the website,Windows,0
+TX10848,CUST0314,2024-01-05 22:33:02,In Store,Electronics,132.8,1,0.05,126.16,Debit Card,4.0,3,Packaging was slightly damaged but item works fine,Android,0
+TX10849,CUST0310,2024-01-05 22:46:46,Mobile App,Beauty,14.37,2,0.1,25.87,Bank Transfer,2.0,1,Satisfactory purchase overall meets expectations,Android,1
+TX10850,CUST0177,2024-01-05 22:53:59,Mobile App,Home Goods,57.63,1,0.0,57.63,Credit Card,4.0,2,Satisfactory purchase overall meets expectations,macOS,1
+TX10851,CUST0254,2024-01-05 22:59:28,Online Web,Apparel,41.04,2,0.0,82.08,Debit Card,4.0,2,Color is exactly as shown on the website,Android,0
+TX10852,CUST0293,2024-01-05 23:13:03,Mobile App,Beauty,31.19,1,0.0,31.19,Digital Wallet,5.0,3,Simple checkout process and clear delivery tracking,iOS,0
+TX10853,CUST0195,2024-01-05 23:27:59,Online Web,Beauty,28.11,1,0.05,26.7,Credit Card,5.0,4,Fast delivery and great quality product,Android,1
+TX10854,CUST0376,2024-01-05 23:35:55,In Store,Beauty,20.92,4,0.15,71.13,Digital Wallet,5.0,2,Color is exactly as shown on the website,macOS,1
+TX10855,CUST0343,2024-01-05 23:40:58,Online Web,Groceries,14.81,1,0.05,14.07,Digital Wallet,4.0,2,Item arrived on time and as described,Windows,0
+TX10856,CUST0224,2024-01-05 23:55:57,Online Web,Apparel,46.61,1,0.0,46.61,Bank Transfer,1.0,2,Color is exactly as shown on the website,iOS,1
+TX10857,CUST0216,2024-01-05 23:58:05,Online Web,Beauty,27.6,1,0.0,27.6,Credit Card,2.0,2,Item arrived on time and as described,Android,1
+TX10858,CUST0254,2024-01-06 00:06:51,Mobile App,Apparel,40.31,1,0.05,38.29,Digital Wallet,3.0,5,Very pleased with this purchase will recommend to friends,Android,1
+TX10859,CUST0174,2024-01-06 00:07:55,Mobile App,Beauty,25.58,1,0.0,25.58,Credit Card,3.0,3,Satisfactory purchase overall meets expectations,macOS,1
+TX10860,CUST0338,2024-01-06 00:21:27,Online Web,Home Goods,73.15,1,0.1,65.84,Credit Card,,2,Packaging was slightly damaged but item works fine,iOS,0
+TX10861,CUST0130,2024-01-06 00:31:24,Mobile App,Beauty,25.39,3,0.1,68.55,Credit Card,4.0,3,Packaging was slightly damaged but item works fine,Android,1
+TX10862,CUST0388,2024-01-06 00:33:02,Mobile App,Home Goods,63.97,1,0.05,60.77,Bank Transfer,3.0,3,Simple checkout process and clear delivery tracking,Windows,0
+TX10863,CUST0312,2024-01-06 00:39:45,Mobile App,Electronics,166.87,4,0.0,667.48,Debit Card,5.0,3,Good value for money would purchase again,Android,1
+TX10864,CUST0314,2024-01-06 00:44:19,Online Web,Apparel,33.47,2,0.0,66.94,Digital Wallet,1.0,1,Color is exactly as shown on the website,Android,1
+TX10865,CUST0386,2024-01-06 00:56:09,Online Web,Groceries,12.0,1,0.0,12.0,Digital Wallet,5.0,2,Item arrived on time and as described,iOS,1
+TX10866,CUST0372,2024-01-06 00:58:04,Mobile App,Groceries,20.54,2,0.0,41.08,Credit Card,4.0,1,Simple checkout process and clear delivery tracking,iOS,0
+TX10867,CUST0169,2024-01-06 01:12:08,Online Web,Electronics,105.34,1,0.0,105.34,Credit Card,4.0,4,Good value for money would purchase again,iOS,0
+TX10868,CUST0299,2024-01-06 01:24:00,Online Web,Electronics,113.13,2,0.05,214.95,Credit Card,2.0,3,Color is exactly as shown on the website,macOS,1
+TX10869,CUST0225,2024-01-06 01:25:26,In Store,Electronics,103.13,1,0.05,97.97,Credit Card,5.0,3,Packaging was slightly damaged but item works fine,iOS,0
+TX10870,CUST0231,2024-01-06 01:39:03,In Store,Home Goods,61.96,1,0.0,61.96,Digital Wallet,4.0,2,Satisfactory purchase overall meets expectations,Android,1
+TX10871,CUST0205,2024-01-06 01:40:19,Online Web,Beauty,36.06,3,0.0,108.18,Digital Wallet,4.0,2,Good value for money would purchase again,Android,0
+TX10872,CUST0270,2024-01-06 01:45:17,Online Web,Electronics,137.33,4,0.0,549.32,Credit Card,5.0,1,Simple checkout process and clear delivery tracking,iOS,1
+TX10873,CUST0432,2024-01-06 01:49:26,Mobile App,Apparel,51.98,3,0.0,155.94,Credit Card,4.0,6,Item arrived on time and as described,Android,0
+TX10874,CUST0141,2024-01-06 01:50:31,Online Web,Beauty,20.86,1,0.1,18.77,Credit Card,4.0,2,Packaging was slightly damaged but item works fine,Android,1
+TX10875,CUST0331,2024-01-06 02:01:52,Online Web,Home Goods,51.53,2,0.0,103.06,Credit Card,4.0,1,Very pleased with this purchase will recommend to friends,Windows,1
+TX10876,CUST0290,2024-01-06 02:05:13,Online Web,Apparel,22.0,1,0.0,22.0,Debit Card,5.0,6,Satisfactory purchase overall meets expectations,Android,0
+TX10877,CUST0148,2024-01-06 02:10:02,Mobile App,Home Goods,55.53,1,0.0,55.53,Digital Wallet,5.0,3,Color is exactly as shown on the website,Android,1
+TX10878,CUST0375,2024-01-06 02:12:56,Mobile App,Apparel,52.75,1,0.15,44.84,Debit Card,4.0,4,Good value for money would purchase again,iOS,1
+TX10879,CUST0198,2024-01-06 02:21:45,Online Web,Apparel,49.19,2,0.05,93.46,Digital Wallet,5.0,1,Very pleased with this purchase will recommend to friends,macOS,1
+TX10880,CUST0127,2024-01-06 02:33:55,Online Web,Home Goods,62.41,1,0.0,62.41,Credit Card,5.0,3,Item arrived on time and as described,iOS,0
+TX10881,CUST0238,2024-01-06 02:36:37,Online Web,Home Goods,64.74,1,0.05,61.5,Credit Card,1.0,2,Satisfactory purchase overall meets expectations,Windows,0
+TX10882,CUST0294,2024-01-06 02:46:59,Mobile App,Beauty,24.53,3,0.1,66.23,Debit Card,4.0,4,Very pleased with this purchase will recommend to friends,iOS,1
+TX10883,CUST0445,2024-01-06 02:51:27,Online Web,Home Goods,67.4,1,0.2,53.92,Digital Wallet,4.0,1,Color is exactly as shown on the website,macOS,0
+TX10884,CUST0410,2024-01-06 03:00:08,Online Web,Beauty,31.86,1,0.0,31.86,Credit Card,5.0,2,Fast delivery and great quality product,Android,1
+TX10885,CUST0409,2024-01-06 03:12:49,Mobile App,Electronics,85.1,1,0.15,72.33,Digital Wallet,5.0,4,Color is exactly as shown on the website,Windows,1
+TX10886,CUST0121,2024-01-06 03:17:56,Online Web,Apparel,47.43,4,0.15,161.26,Digital Wallet,5.0,3,Packaging was slightly damaged but item works fine,iOS,0
+TX10887,CUST0138,2024-01-06 03:31:46,Mobile App,Electronics,140.14,1,0.15,119.12,Digital Wallet,5.0,3,Good value for money would purchase again,Android,1
+TX10888,CUST0197,2024-01-06 03:38:48,Online Web,Electronics,111.03,1,0.05,105.48,Debit Card,4.0,1,Customer service was very helpful with my inquiry,Android,1
+TX10889,CUST0401,2024-01-06 03:42:24,Online Web,Home Goods,73.2,3,0.05,208.62,Digital Wallet,4.0,1,Color is exactly as shown on the website,Windows,1
+TX10890,CUST0444,2024-01-06 03:53:29,Online Web,Groceries,27.12,3,0.0,81.36,Digital Wallet,5.0,3,Delivery was delayed by two days but support notified me,iOS,0
+TX10891,CUST0387,2024-01-06 04:04:35,Mobile App,Electronics,117.75,1,0.1,105.98,Credit Card,5.0,3,Customer service was very helpful with my inquiry,macOS,1
+TX10892,CUST0212,2024-01-06 04:18:05,In Store,Apparel,48.19,2,0.05,91.56,Credit Card,5.0,6,Customer service was very helpful with my inquiry,Windows,0
+TX10893,CUST0346,2024-01-06 04:31:05,Mobile App,Beauty,24.28,2,0.05,46.13,Credit Card,,3,Good value for money would purchase again,iOS,0
+TX10894,CUST0207,2024-01-06 04:33:47,Online Web,Electronics,123.92,2,0.0,247.84,Credit Card,5.0,2,Good value for money would purchase again,Windows,1
+TX10895,CUST0271,2024-01-06 04:47:48,Mobile App,Home Goods,70.39,1,0.1,63.35,Digital Wallet,2.0,4,Item arrived on time and as described,Android,0
+TX10896,CUST0256,2024-01-06 05:02:31,Online Web,Home Goods,67.28,3,0.1,181.66,Digital Wallet,4.0,1,Packaging was slightly damaged but item works fine,Android,1
+TX10897,CUST0108,2024-01-06 05:06:03,Online Web,Home Goods,53.07,1,0.0,53.07,Credit Card,4.0,2,Item arrived on time and as described,iOS,1
+TX10898,CUST0209,2024-01-06 05:12:06,In Store,Electronics,124.46,1,0.1,112.01,Debit Card,5.0,2,Very pleased with this purchase will recommend to friends,Android,0
+TX10899,CUST0198,2024-01-06 05:14:41,Online Web,Apparel,56.84,1,0.05,54.0,Credit Card,2.0,1,Very pleased with this purchase will recommend to friends,Android,0
+TX10900,CUST0161,2024-01-06 05:25:18,Online Web,Beauty,30.26,1,0.1,27.23,Credit Card,,4,Very pleased with this purchase will recommend to friends,Android,1
+TX10901,CUST0346,2024-01-06 05:26:29,Online Web,Home Goods,76.26,1,0.0,76.26,Credit Card,4.0,3,Fast delivery and great quality product,Android,1
+TX10902,CUST0225,2024-01-06 05:32:33,Online Web,Electronics,114.88,2,0.0,229.76,Credit Card,5.0,3,Color is exactly as shown on the website,Android,1
+TX10903,CUST0410,2024-01-06 05:43:07,Online Web,Beauty,31.78,1,0.15,27.01,Credit Card,1.0,2,Simple checkout process and clear delivery tracking,Android,1
+TX10904,CUST0205,2024-01-06 05:55:25,Mobile App,Electronics,126.03,1,0.0,126.03,Digital Wallet,3.0,2,Good value for money would purchase again,iOS,1
+TX10905,CUST0304,2024-01-06 06:02:34,Online Web,Home Goods,53.87,1,0.1,48.48,Credit Card,3.0,1,Simple checkout process and clear delivery tracking,Windows,1
+TX10906,CUST0223,2024-01-06 06:10:05,In Store,Electronics,126.88,1,0.0,126.88,Bank Transfer,5.0,3,Satisfactory purchase overall meets expectations,Android,0
+TX10907,CUST0383,2024-01-06 06:23:02,Mobile App,Groceries,14.79,5,0.05,70.25,Credit Card,5.0,2,Good value for money would purchase again,iOS,1
+TX10908,CUST0265,2024-01-06 06:27:10,Online Web,Apparel,39.87,1,0.0,39.87,Credit Card,5.0,4,Good value for money would purchase again,iOS,1
+TX10909,CUST0245,2024-01-06 06:29:12,Online Web,Apparel,46.53,1,0.05,44.2,Credit Card,5.0,2,Good value for money would purchase again,Android,0
+TX10910,CUST0295,2024-01-06 06:40:03,Online Web,Electronics,126.42,1,0.0,126.42,Digital Wallet,3.0,2,Simple checkout process and clear delivery tracking,Windows,0
+TX10911,CUST0339,2024-01-06 06:52:35,Mobile App,Apparel,35.37,1,0.0,35.37,Credit Card,5.0,3,Good value for money would purchase again,iOS,1
+TX10912,CUST0374,2024-01-06 07:07:30,Online Web,Beauty,33.31,1,0.0,33.31,Debit Card,5.0,4,Delivery was delayed by two days but support notified me,Android,1
+TX10913,CUST0433,2024-01-06 07:18:57,Mobile App,Groceries,19.85,2,0.0,39.7,Digital Wallet,5.0,2,Fast delivery and great quality product,iOS,0
+TX10914,CUST0284,2024-01-06 07:23:50,Online Web,Apparel,39.29,5,0.2,157.16,Digital Wallet,,3,Satisfactory purchase overall meets expectations,Android,1
+TX10915,CUST0258,2024-01-06 07:26:19,Mobile App,Apparel,32.55,1,0.2,26.04,Digital Wallet,5.0,7,Color is exactly as shown on the website,macOS,1
+TX10916,CUST0234,2024-01-06 07:38:57,Online Web,Home Goods,63.3,2,0.0,126.6,Credit Card,4.0,7,Customer service was very helpful with my inquiry,Windows,0
+TX10917,CUST0285,2024-01-06 07:52:53,Online Web,Beauty,25.75,2,0.1,46.35,Credit Card,4.0,3,Delivery was delayed by two days but support notified me,iOS,1
+TX10918,CUST0363,2024-01-06 07:58:46,In Store,Home Goods,66.32,3,0.0,198.96,Credit Card,5.0,3,Simple checkout process and clear delivery tracking,Android,1
+TX10919,CUST0355,2024-01-06 08:11:11,Mobile App,Apparel,42.06,1,0.05,39.96,Digital Wallet,5.0,2,Packaging was slightly damaged but item works fine,iOS,1
+TX10920,CUST0339,2024-01-06 08:22:10,Online Web,Apparel,28.74,1,0.1,25.87,Credit Card,5.0,4,Delivery was delayed by two days but support notified me,Android,1
+TX10921,CUST0151,2024-01-06 08:36:39,In Store,Home Goods,60.46,1,0.15,51.39,Credit Card,5.0,2,Customer service was very helpful with my inquiry,Windows,1
+TX10922,CUST0341,2024-01-06 08:39:27,Mobile App,Electronics,113.4,2,0.0,226.8,Bank Transfer,4.0,6,Very pleased with this purchase will recommend to friends,Windows,0
+TX10923,CUST0264,2024-01-06 08:53:47,In Store,Home Goods,72.41,3,0.1,195.51,Credit Card,4.0,1,Customer service was very helpful with my inquiry,iOS,1
+TX10924,CUST0205,2024-01-06 09:04:11,Mobile App,Apparel,39.34,1,0.0,39.34,Debit Card,4.0,2,Packaging was slightly damaged but item works fine,macOS,1
+TX10925,CUST0290,2024-01-06 09:18:17,Online Web,Beauty,36.46,1,0.2,29.17,Digital Wallet,4.0,3,Delivery was delayed by two days but support notified me,Android,1
+TX10926,CUST0261,2024-01-06 09:19:44,Online Web,Electronics,78.71,4,0.0,314.84,Credit Card,5.0,2,Customer service was very helpful with my inquiry,iOS,0
+TX10927,CUST0312,2024-01-06 09:26:24,Online Web,Home Goods,80.34,3,0.05,228.97,Credit Card,2.0,2,Color is exactly as shown on the website,Android,1
+TX10928,CUST0124,2024-01-06 09:36:14,Mobile App,Apparel,43.18,5,0.05,205.1,Credit Card,3.0,3,Simple checkout process and clear delivery tracking,Android,1
+TX10929,CUST0389,2024-01-06 09:44:17,Mobile App,Home Goods,75.06,2,0.05,142.61,Digital Wallet,2.0,4,Delivery was delayed by two days but support notified me,Android,0
+TX10930,CUST0214,2024-01-06 09:56:19,Online Web,Electronics,121.72,1,0.0,121.72,Digital Wallet,5.0,3,Delivery was delayed by two days but support notified me,Android,1
+TX10931,CUST0175,2024-01-06 10:03:23,Online Web,Home Goods,78.33,2,0.15,133.16,Digital Wallet,2.0,2,Packaging was slightly damaged but item works fine,Android,1
+TX10932,CUST0109,2024-01-06 10:05:18,Mobile App,Home Goods,60.47,2,0.0,120.94,Debit Card,3.0,3,Satisfactory purchase overall meets expectations,iOS,1
+TX10933,CUST0234,2024-01-06 10:14:41,In Store,Home Goods,52.15,1,0.05,49.54,Digital Wallet,3.0,2,Very pleased with this purchase will recommend to friends,Windows,1
+TX10934,CUST0384,2024-01-06 10:26:29,Mobile App,Home Goods,81.62,1,0.0,81.62,Credit Card,5.0,2,Very pleased with this purchase will recommend to friends,Android,1
+TX10935,CUST0400,2024-01-06 10:33:03,Online Web,Home Goods,63.67,2,0.0,127.34,Credit Card,4.0,3,Satisfactory purchase overall meets expectations,iOS,0
+TX10936,CUST0397,2024-01-06 10:34:00,Online Web,Beauty,29.12,1,0.05,27.66,Debit Card,2.0,4,Good value for money would purchase again,Windows,1
+TX10937,CUST0314,2024-01-06 10:41:55,Online Web,Apparel,55.0,2,0.0,110.0,Credit Card,4.0,2,Customer service was very helpful with my inquiry,macOS,1
+TX10938,CUST0252,2024-01-06 10:56:42,In Store,Beauty,22.8,2,0.0,45.6,Credit Card,4.0,3,Simple checkout process and clear delivery tracking,macOS,1
+TX10939,CUST0179,2024-01-06 11:05:48,Online Web,Apparel,49.82,4,0.0,199.28,Digital Wallet,2.0,2,Good value for money would purchase again,iOS,1
+TX10940,CUST0201,2024-01-06 11:08:21,Mobile App,Electronics,107.26,1,0.0,107.26,Credit Card,5.0,2,Packaging was slightly damaged but item works fine,iOS,1
+TX10941,CUST0269,2024-01-06 11:16:29,Online Web,Electronics,117.15,1,0.1,105.44,Debit Card,4.0,1,Fast delivery and great quality product,Android,0
+TX10942,CUST0218,2024-01-06 11:23:24,Mobile App,Apparel,45.59,2,0.15,77.5,Digital Wallet,5.0,6,Delivery was delayed by two days but support notified me,iOS,1
+TX10943,CUST0295,2024-01-06 11:34:59,Mobile App,Beauty,20.44,1,0.0,20.44,Credit Card,2.0,4,Color is exactly as shown on the website,macOS,0
+TX10944,CUST0392,2024-01-06 11:49:52,Mobile App,Home Goods,55.89,2,0.0,111.78,Debit Card,5.0,3,Very pleased with this purchase will recommend to friends,iOS,1
+TX10945,CUST0226,2024-01-06 11:58:27,Online Web,Beauty,34.81,2,0.0,69.62,Credit Card,4.0,3,Item arrived on time and as described,iOS,1
+TX10946,CUST0356,2024-01-06 12:11:16,Online Web,Apparel,52.18,1,0.0,52.18,Credit Card,4.0,4,Very pleased with this purchase will recommend to friends,Android,1
+TX10947,CUST0382,2024-01-06 12:14:37,Online Web,Apparel,44.49,1,0.05,42.27,Credit Card,4.0,2,Item arrived on time and as described,iOS,1
+TX10948,CUST0436,2024-01-06 12:22:47,In Store,Electronics,125.25,1,0.05,118.99,Credit Card,4.0,2,Packaging was slightly damaged but item works fine,Windows,1
+TX10949,CUST0273,2024-01-06 12:26:32,In Store,Apparel,42.62,1,0.0,42.62,Digital Wallet,2.0,2,Item arrived on time and as described,Android,1
+TX10950,CUST0232,2024-01-06 12:39:48,Mobile App,Apparel,55.99,4,0.0,223.96,Credit Card,2.0,3,Good value for money would purchase again,iOS,0
+TX10951,CUST0351,2024-01-06 12:49:27,Mobile App,Electronics,115.67,3,0.0,347.01,Credit Card,5.0,5,Packaging was slightly damaged but item works fine,iOS,1
+TX10952,CUST0429,2024-01-06 13:01:18,Mobile App,Electronics,125.01,2,0.1,225.02,Credit Card,5.0,2,Delivery was delayed by two days but support notified me,Android,1
+TX10953,CUST0352,2024-01-06 13:06:39,Online Web,Home Goods,78.41,2,0.2,125.46,Digital Wallet,5.0,2,Very pleased with this purchase will recommend to friends,iOS,1
+TX10954,CUST0336,2024-01-06 13:17:54,In Store,Home Goods,55.9,1,0.0,55.9,Debit Card,5.0,2,Good value for money would purchase again,Android,1
+TX10955,CUST0187,2024-01-06 13:32:26,Online Web,Groceries,23.05,4,0.0,92.2,Credit Card,4.0,4,Satisfactory purchase overall meets expectations,Android,1
+TX10956,CUST0281,2024-01-06 13:42:22,Online Web,Groceries,13.04,2,0.15,22.17,Credit Card,2.0,2,Item arrived on time and as described,Android,1
+TX10957,CUST0187,2024-01-06 13:56:20,Mobile App,Home Goods,84.07,2,0.15,142.92,Credit Card,3.0,2,Customer service was very helpful with my inquiry,macOS,1
+TX10958,CUST0172,2024-01-06 14:05:20,Online Web,Apparel,41.98,3,0.0,125.94,Credit Card,5.0,3,Delivery was delayed by two days but support notified me,macOS,0
+TX10959,CUST0380,2024-01-06 14:14:01,Online Web,Home Goods,62.16,1,0.0,62.16,Digital Wallet,5.0,3,Color is exactly as shown on the website,macOS,0
+TX10960,CUST0351,2024-01-06 14:22:12,Mobile App,Beauty,18.47,3,0.0,55.41,Digital Wallet,4.0,1,Fast delivery and great quality product,iOS,1
+TX10961,CUST0195,2024-01-06 14:37:02,Online Web,Electronics,110.18,1,0.05,104.67,Credit Card,4.0,1,Satisfactory purchase overall meets expectations,iOS,1
+TX10962,CUST0378,2024-01-06 14:50:15,Mobile App,Apparel,36.58,1,0.0,36.58,Credit Card,5.0,3,Fast delivery and great quality product,iOS,0
+TX10963,CUST0429,2024-01-06 15:01:06,Online Web,Beauty,24.94,1,0.0,24.94,Credit Card,,2,Satisfactory purchase overall meets expectations,Windows,1
+TX10964,CUST0131,2024-01-06 15:06:25,Online Web,Apparel,43.89,5,0.05,208.48,Digital Wallet,2.0,6,Very pleased with this purchase will recommend to friends,macOS,1
+TX10965,CUST0369,2024-01-06 15:12:40,Online Web,Home Goods,76.21,3,0.0,228.63,Credit Card,5.0,3,Color is exactly as shown on the website,Windows,1
+TX10966,CUST0118,2024-01-06 15:17:36,Online Web,Home Goods,67.43,2,0.1,121.37,Bank Transfer,3.0,1,Customer service was very helpful with my inquiry,iOS,1
+TX10967,CUST0139,2024-01-06 15:32:31,Mobile App,Electronics,126.65,2,0.0,253.3,Digital Wallet,5.0,2,Satisfactory purchase overall meets expectations,macOS,1
+TX10968,CUST0443,2024-01-06 15:34:44,Online Web,Apparel,36.13,2,0.0,72.26,Credit Card,,2,Item arrived on time and as described,Android,1
+TX10969,CUST0125,2024-01-06 15:40:14,Mobile App,Apparel,37.87,4,0.05,143.91,Digital Wallet,5.0,1,Color is exactly as shown on the website,iOS,1
+TX10970,CUST0104,2024-01-06 15:48:40,Mobile App,Electronics,158.85,1,0.0,158.85,Debit Card,5.0,5,Customer service was very helpful with my inquiry,Android,1
+TX10971,CUST0312,2024-01-06 15:53:34,Mobile App,Electronics,104.12,1,0.2,83.3,Digital Wallet,2.0,4,Fast delivery and great quality product,iOS,0
+TX10972,CUST0171,2024-01-06 16:07:07,In Store,Beauty,36.35,1,0.05,34.53,Credit Card,5.0,2,Color is exactly as shown on the website,Android,1
+TX10973,CUST0423,2024-01-06 16:15:47,Mobile App,Apparel,43.03,2,0.0,86.06,Credit Card,4.0,2,Item arrived on time and as described,iOS,1
+TX10974,CUST0219,2024-01-06 16:26:15,Online Web,Apparel,45.02,2,0.1,81.04,Debit Card,5.0,1,Color is exactly as shown on the website,Android,1
+TX10975,CUST0135,2024-01-06 16:37:24,Online Web,Apparel,53.67,1,0.0,53.67,Digital Wallet,5.0,2,Good value for money would purchase again,Android,0
+TX10976,CUST0178,2024-01-06 16:49:33,Online Web,Groceries,22.12,1,0.15,18.8,Digital Wallet,5.0,3,Good value for money would purchase again,Windows,0
+TX10977,CUST0105,2024-01-06 16:56:46,Mobile App,Apparel,44.1,3,0.0,132.3,Debit Card,5.0,2,Fast delivery and great quality product,Android,0
+TX10978,CUST0212,2024-01-06 17:03:15,Online Web,Apparel,41.86,1,0.05,39.77,Debit Card,4.0,6,Packaging was slightly damaged but item works fine,Android,1
+TX10979,CUST0359,2024-01-06 17:04:29,Mobile App,Beauty,27.72,2,0.0,55.44,Debit Card,5.0,1,Delivery was delayed by two days but support notified me,Windows,0
+TX10980,CUST0334,2024-01-06 17:13:40,Mobile App,Beauty,29.7,5,0.0,148.5,Credit Card,4.0,3,Good value for money would purchase again,macOS,0
+TX10981,CUST0292,2024-01-06 17:19:57,Online Web,Electronics,139.25,1,0.1,125.32,Digital Wallet,4.0,4,Delivery was delayed by two days but support notified me,iOS,1
+TX10982,CUST0131,2024-01-06 17:23:48,Mobile App,Beauty,28.02,1,0.1,25.22,Digital Wallet,4.0,2,Delivery was delayed by two days but support notified me,Android,1
+TX10983,CUST0417,2024-01-06 17:32:52,Online Web,Apparel,50.01,2,0.0,100.02,Digital Wallet,5.0,1,Simple checkout process and clear delivery tracking,iOS,1
+TX10984,CUST0427,2024-01-06 17:37:14,Online Web,Apparel,58.27,3,0.0,174.81,Digital Wallet,2.0,2,Fast delivery and great quality product,iOS,0
+TX10985,CUST0442,2024-01-06 17:44:02,Mobile App,Electronics,128.24,1,0.1,115.42,Credit Card,5.0,2,Item arrived on time and as described,Android,1
+TX10986,CUST0416,2024-01-06 17:58:23,Mobile App,Electronics,126.73,5,0.15,538.6,Digital Wallet,5.0,6,Fast delivery and great quality product,Windows,1
+TX10987,CUST0348,2024-01-06 18:03:32,Mobile App,Home Goods,47.23,1,0.0,47.23,Digital Wallet,5.0,5,Packaging was slightly damaged but item works fine,iOS,0
+TX10988,CUST0438,2024-01-06 18:10:05,Online Web,Apparel,23.69,1,0.0,23.69,Credit Card,5.0,5,Customer service was very helpful with my inquiry,Windows,0
+TX10989,CUST0350,2024-01-06 18:15:36,Online Web,Apparel,48.15,2,0.0,96.3,Digital Wallet,5.0,4,Good value for money would purchase again,Windows,0
+TX10990,CUST0109,2024-01-06 18:26:31,Mobile App,Home Goods,63.89,3,0.15,162.92,Credit Card,4.0,2,Very pleased with this purchase will recommend to friends,macOS,0
+TX10991,CUST0104,2024-01-06 18:39:14,Mobile App,Beauty,25.41,1,0.0,25.41,Credit Card,5.0,5,Simple checkout process and clear delivery tracking,iOS,1
+TX10992,CUST0373,2024-01-06 18:44:41,Mobile App,Electronics,125.26,3,0.0,375.78,Credit Card,5.0,7,Very pleased with this purchase will recommend to friends,macOS,0
+TX10993,CUST0383,2024-01-06 18:54:55,Online Web,Home Goods,64.29,2,0.1,115.72,Credit Card,4.0,2,Satisfactory purchase overall meets expectations,iOS,1
+TX10994,CUST0311,2024-01-06 18:55:50,Mobile App,Electronics,144.36,1,0.0,144.36,Digital Wallet,5.0,2,Item arrived on time and as described,Android,0
+TX10995,CUST0107,2024-01-06 19:05:24,Online Web,Beauty,28.43,1,0.0,28.43,Digital Wallet,5.0,3,Packaging was slightly damaged but item works fine,iOS,1
+TX10996,CUST0109,2024-01-06 19:09:24,Online Web,Home Goods,56.26,3,0.0,168.78,Digital Wallet,5.0,2,Customer service was very helpful with my inquiry,iOS,0
+TX10997,CUST0372,2024-01-06 19:11:36,In Store,Groceries,21.21,1,0.0,21.21,Debit Card,4.0,1,Packaging was slightly damaged but item works fine,Android,1
+TX10998,CUST0241,2024-01-06 19:16:28,Online Web,Electronics,115.31,1,0.0,115.31,Credit Card,5.0,5,Item arrived on time and as described,Android,0
+TX10999,CUST0375,2024-01-06 19:29:30,In Store,Electronics,131.37,1,0.05,124.8,Credit Card,5.0,5,Fast delivery and great quality product,iOS,1
+TX11000,CUST0247,2024-01-06 19:37:11,Online Web,Apparel,41.13,3,0.0,123.39,Debit Card,4.0,2,Customer service was very helpful with my inquiry,iOS,1
